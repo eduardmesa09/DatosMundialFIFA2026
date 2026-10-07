@@ -4,7 +4,7 @@
 **Alcance:** formato, sedes, selecciones participantes, convocatorias (listas de 26 jugadores), resultados de los 104 partidos, premios, goleadores, récords y datos públicos del torneo disponibles en fuentes abiertas.  
 **Evento analizado:** Copa Mundial de la FIFA 2026 (en adelante, "el Mundial 2026" o "el torneo"), organizada por Canadá, Estados Unidos y México del 11 de junio al 19 de julio de 2026. Es el Mundial masculino más reciente (el "último Mundial").
 
-> **Cómo leer este documento.** Este inventario consolida información pública sobre el Mundial 2026; no es un documento oficial de la FIFA. Las fechas corresponden a la fecha local de cada sede. Los marcadores indican los goles en el tiempo reglamentario y, si la hubo, en la prórroga; las tandas de penales se indican aparte. Los nombres de los jugadores se transcriben sin tildes ni signos diacríticos, tal como aparecen en las listas en inglés. Las convocatorias corresponden a las listas finales de 26 jugadores publicadas a comienzos de junio de 2026; cuando se conoce un reemplazo posterior por lesión, se indica. Si un dato no aparece aquí, no debe inferirse.
+> **Cómo leer este documento.** Este inventario consolida información pública sobre el Mundial 2026; no es un documento oficial de la FIFA. Las fechas corresponden a la fecha local de cada sede. Los marcadores indican los goles en el tiempo reglamentario y, si la hubo, en la prórroga; las tandas de penales se indican aparte. Los nombres de los jugadores se transcriben sin tildes ni signos diacríticos, tal como aparecen en las listas en inglés. Las convocatorias corresponden a las listas finales de 26 jugadores publicadas a comienzos de junio de 2026; cuando se conoce un reemplazo posterior por lesión, se indica. Los capitanes corresponden a la lista publicada antes del inicio del torneo. La tabla de goleadores por jugador (sección 10) es la referencia para saber cuántos goles marcó cada futbolista en todo el torneo. Si un dato no aparece aquí, no debe inferirse.
 
 ---
 
@@ -184,7 +184,7 @@ Selecciones del Grupo B: Suiza, Canadá, Bosnia y Herzegovina y Catar.
 **Resultados del Grupo B:**
 
 - Jornada 1 (12 de junio de 2026): Canadá 1-1 Bosnia y Herzegovina. Jugado en Toronto. Goles de Jovo Lukic (21') para Bosnia y Cyle Larin (78') para Canadá.
-- Jornada 1 (13 de junio de 2026): Catar 1-1 Suiza.
+- Jornada 1 (13 de junio de 2026): Catar 1-1 Suiza. El gol de Catar figura como de Boualem Khoukhi en una fuente y como autogol del suizo Miro Muheim en otra.
 - Jornada 2 (18 de junio de 2026): Suiza 4-1 Bosnia y Herzegovina.
 - Jornada 2 (18 de junio de 2026): Canadá 6-0 Catar. Primera victoria de Canadá en la historia de los Mundiales masculinos; jugado en Vancouver.
 - Jornada 3 (24 de junio de 2026): Suiza 2-1 Canadá.
@@ -425,30 +425,30 @@ Se jugaron 32 partidos entre el 28 de junio y el 19 de julio de 2026.
 - Partido 74 (29 de junio de 2026, Boston (Gillette Stadium)): Alemania 1-1 Paraguay (tras prórroga; 3-4 en penales). Avanzó Paraguay. Goles de Julio Enciso (42') y Kai Havertz (54'). Paraguay eliminó a Alemania en la tanda de penales.
 - Partido 75 (29 de junio de 2026, Monterrey (Estadio BBVA)): Países Bajos 1-1 Marruecos (tras prórroga; 2-3 en penales). Avanzó Marruecos. Goles de Cody Gakpo (72') e Issa Diop (90+1'). Marruecos avanzó por penales.
 - Partido 76 (29 de junio de 2026, Houston (NRG Stadium)): Brasil 2-1 Japón. Avanzó Brasil. Japón se adelantó con Kaishu Sano (29'); remontaron Casemiro (56') y Gabriel Martinelli (90+5').
-- Partido 77 (30 de junio de 2026, Nueva York/Nueva Jersey (MetLife Stadium)): Francia 3-0 Suecia. Avanzó Francia.
-- Partido 78 (30 de junio de 2026, Dallas (AT&T Stadium)): Costa de Marfil 1-2 Noruega. Avanzó Noruega. El gol marfileño fue de Amad Diallo (74').
+- Partido 77 (30 de junio de 2026, Nueva York/Nueva Jersey (MetLife Stadium)): Francia 3-0 Suecia. Avanzó Francia. Doblete de Kylian Mbappé y gol de Bradley Barcola.
+- Partido 78 (30 de junio de 2026, Dallas (AT&T Stadium)): Costa de Marfil 1-2 Noruega. Avanzó Noruega. El gol marfileño fue de Amad Diallo (74'). Erling Haaland marcó uno de los dos goles noruegos.
 - Partido 79 (30 de junio de 2026, Ciudad de México (Estadio Azteca)): México 2-0 Ecuador. Avanzó México.
-- Partido 80 (1 de julio de 2026, Atlanta (Mercedes-Benz Stadium)): Inglaterra 2-1 RD Congo. Avanzó Inglaterra.
+- Partido 80 (1 de julio de 2026, Atlanta (Mercedes-Benz Stadium)): Inglaterra 2-1 RD Congo. Avanzó Inglaterra. Doblete de Harry Kane para Inglaterra.
 - Partido 81 (1 de julio de 2026, Área de la Bahía de San Francisco (Levi's Stadium)): Estados Unidos 2-0 Bosnia y Herzegovina. Avanzó Estados Unidos.
 - Partido 82 (1 de julio de 2026, Seattle (Lumen Field)): Bélgica 3-2 Senegal (tras prórroga). Avanzó Bélgica. Definido en la prórroga.
-- Partido 83 (2 de julio de 2026, Toronto (BMO Field)): Portugal 2-1 Croacia. Avanzó Portugal.
-- Partido 84 (2 de julio de 2026, Los Ángeles (SoFi Stadium)): España 3-0 Austria. Avanzó España.
+- Partido 83 (2 de julio de 2026, Toronto (BMO Field)): Portugal 2-1 Croacia. Avanzó Portugal. Goles de Cristiano Ronaldo y Gonçalo Ramos para Portugal; Ivan Perišić marcó para Croacia.
+- Partido 84 (2 de julio de 2026, Los Ángeles (SoFi Stadium)): España 3-0 Austria. Avanzó España. Doblete de Mikel Oyarzabal.
 - Partido 85 (2 de julio de 2026, Vancouver (BC Place)): Suiza 2-0 Argelia. Avanzó Suiza.
-- Partido 86 (3 de julio de 2026, Miami (Hard Rock Stadium)): Argentina 3-2 Cabo Verde. Avanzó Argentina. Cabo Verde, debutante, se despidió marcándole dos goles al campeón defensor.
-- Partido 87 (3 de julio de 2026, Kansas City (Arrowhead Stadium)): Colombia 1-0 Ghana. Avanzó Colombia.
+- Partido 86 (3 de julio de 2026, Miami (Hard Rock Stadium)): Argentina 3-2 Cabo Verde. Avanzó Argentina. Cabo Verde, debutante, se despidió marcándole dos goles al campeón defensor. Los goles caboverdianos fueron de Sidny Cabral y Deroy Duarte; Lionel Messi marcó uno de los goles argentinos.
+- Partido 87 (3 de julio de 2026, Kansas City (Arrowhead Stadium)): Colombia 1-0 Ghana. Avanzó Colombia. Gol de Jhon Arias.
 - Partido 88 (3 de julio de 2026, Dallas (AT&T Stadium)): Australia 1-1 Egipto (tras prórroga; 2-4 en penales). Avanzó Egipto. Egipto avanzó por penales.
 
 Alemania y Países Bajos fueron las grandes eliminaciones de esta ronda, ambas por penales.
 
 ### 7.2 Octavos de final (4 al 7 de julio)
 
-- Partido 89 (4 de julio de 2026, Filadelfia (Lincoln Financial Field)): Paraguay 0-1 Francia. Avanzó Francia.
+- Partido 89 (4 de julio de 2026, Filadelfia (Lincoln Financial Field)): Paraguay 0-1 Francia. Avanzó Francia. Gol de Kylian Mbappé.
 - Partido 90 (4 de julio de 2026, Houston (NRG Stadium)): Canadá 0-3 Marruecos. Avanzó Marruecos. Doblete de Azzedine Ounahi y gol de Soufiane Rahimi.
-- Partido 91 (5 de julio de 2026, Nueva York/Nueva Jersey (MetLife Stadium)): Brasil 1-2 Noruega. Avanzó Noruega. Noruega remontó con dos goles en el tramo final, ambos de Erling Haaland, y eliminó al pentacampeón.
+- Partido 91 (5 de julio de 2026, Nueva York/Nueva Jersey (MetLife Stadium)): Brasil 1-2 Noruega. Avanzó Noruega. Noruega remontó con dos goles en el tramo final, ambos de Erling Haaland, y eliminó al pentacampeón. El gol de Brasil fue de Neymar.
 - Partido 92 (5 de julio de 2026, Ciudad de México (Estadio Azteca)): México 2-3 Inglaterra. Avanzó Inglaterra. Goles ingleses de Jude Bellingham (36', 38') y Harry Kane de penal (60').
 - Partido 93 (6 de julio de 2026, Dallas (AT&T Stadium)): Portugal 0-1 España. Avanzó España. Gol de Mikel Merino en tiempo de descuento. Fue el último partido mundialista de Cristiano Ronaldo.
 - Partido 94 (6 de julio de 2026, Seattle (Lumen Field)): Estados Unidos 1-4 Bélgica. Avanzó Bélgica.
-- Partido 95 (7 de julio de 2026, Atlanta (Mercedes-Benz Stadium)): Argentina 3-2 Egipto. Avanzó Argentina.
+- Partido 95 (7 de julio de 2026, Atlanta (Mercedes-Benz Stadium)): Argentina 3-2 Egipto. Avanzó Argentina. Argentina remontó el partido; Lionel Messi marcó uno de los goles.
 - Partido 96 (7 de julio de 2026, Vancouver (BC Place)): Suiza 0-0 Colombia (tras prórroga; 4-3 en penales). Avanzó Suiza. Suiza eliminó a Colombia en la tanda de penales tras 120 minutos sin goles.
 
 En esta ronda quedaron eliminados los tres anfitriones (Canadá, México y Estados Unidos), además de Brasil, Portugal y Colombia.
@@ -457,7 +457,7 @@ En esta ronda quedaron eliminados los tres anfitriones (Canadá, México y Estad
 
 - Partido 97 (9 de julio de 2026, Boston (Gillette Stadium)): Francia 2-0 Marruecos. Avanzó Francia. Goles de Kylian Mbappé y Ousmane Dembélé. Reedición de la semifinal de 2022.
 - Partido 98 (10 de julio de 2026, Los Ángeles (SoFi Stadium)): España 2-1 Bélgica. Avanzó España. Mikel Merino marcó el gol del triunfo al minuto 88. El gol belga fue el único que recibió España en todo el torneo.
-- Partido 99 (11 de julio de 2026, Miami (Hard Rock Stadium)): Noruega 1-2 Inglaterra (tras prórroga). Avanzó Inglaterra. Doblete de Jude Bellingham (45+2' y 93', ya en la prórroga).
+- Partido 99 (11 de julio de 2026, Miami (Hard Rock Stadium)): Noruega 1-2 Inglaterra (tras prórroga). Avanzó Inglaterra. Doblete de Jude Bellingham (45+2' y 93', ya en la prórroga). El gol noruego fue de Andreas Schjelderup.
 - Partido 100 (11 de julio de 2026, Kansas City (Arrowhead Stadium)): Argentina 3-1 Suiza (tras prórroga). Avanzó Argentina. Definido en la prórroga, con un gol de Julián Álvarez al minuto 112.
 
 Los cuatro semifinalistas (Francia, España, Inglaterra y Argentina) eran las cuatro selecciones mejor ubicadas en el ranking FIFA y todas habían sido campeonas del mundo.
@@ -465,7 +465,7 @@ Los cuatro semifinalistas (Francia, España, Inglaterra y Argentina) eran las cu
 ### 7.4 Semifinales (14 y 15 de julio)
 
 - Partido 101 (14 de julio de 2026, Dallas (AT&T Stadium)): Francia 0-2 España. Avanzó España. Goles de Mikel Oyarzabal de penal (22') y Pedro Porro (58'). Francia llegaba con seis victorias en seis partidos.
-- Partido 102 (15 de julio de 2026, Atlanta (Mercedes-Benz Stadium)): Inglaterra 1-2 Argentina. Avanzó Argentina.
+- Partido 102 (15 de julio de 2026, Atlanta (Mercedes-Benz Stadium)): Inglaterra 1-2 Argentina. Avanzó Argentina. Goles argentinos de Lautaro Martínez y Enzo Fernández; por Inglaterra marcó Anthony Gordon.
 
 ### 7.5 Partido por el tercer puesto (18 de julio)
 
@@ -490,11 +490,38 @@ Los cuatro semifinalistas (Francia, España, Inglaterra y Argentina) eran las cu
 | Expulsado | Enzo Fernández (Argentina), por doble amarilla en el tiempo añadido del segundo tiempo (90+3') |
 | Jugador del partido | Emiliano Martínez (Argentina), con 11 atajadas, récord en una final mundialista |
 | Entrenadores | Luis de la Fuente (España) y Lionel Scaloni (Argentina) |
-| Asistencia | Más de 80.000 espectadores |
+| Asistencia | 80.663 espectadores |
+| Árbitro | Slavko Vinčić (Eslovenia), primer esloveno en dirigir una final mundialista |
+| Árbitros asistentes | Tomaž Klančnik y Andraž Kovačič (Eslovenia) |
+| Cuarto árbitro | Adham Makhadmeh (Jordania) |
+| VAR | Bastian Dankert (Alemania), según la designación previa al partido |
 
-España dominó el partido: tuvo cerca del 68 % de la posesión y 20 remates contra 3 de Argentina, que no registró remates al arco en el tiempo reglamentario. El arquero Emiliano Martínez sostuvo el 0-0 hasta la prórroga. Con Argentina jugando con diez hombres, Ferran Torres, que había entrado como suplente, definió de cerca al minuto 106.
+### Alineaciones de la final
 
-España ganó su segundo título 16 años después del de 2010, que también fue 1-0 en la prórroga (ante Países Bajos). Argentina no logró ser el primer bicampeón consecutivo desde Brasil (1958 y 1962). Lionel Messi, con 39 años y 25 días, se convirtió en el jugador de campo de mayor edad en disputar una final mundialista. Para el espectáculo de medio tiempo, el primero de este tipo en una final, se anunció a Madonna, Shakira y BTS, con curaduría de Chris Martin.
+- **España (titulares):** Unai Simón; Pedro Porro, Pau Cubarsí, Aymeric Laporte, Marc Cucurella; Rodri, Fabián Ruiz; Lamine Yamal, Dani Olmo, Álex Baena; Mikel Oyarzabal. Luis de la Fuente repitió el once de la semifinal.
+- **Cambios de España:** Ferran Torres por Oyarzabal (62'), Pedri por Fabián Ruiz (62'), Mikel Merino por Dani Olmo (75'), Nico Williams por Baena (75'), Eric García por Laporte (99') y Martín Zubimendi por Rodri (99').
+- **Argentina (titulares):** Emiliano Martínez; Gonzalo Montiel, Cristian Romero, Lisandro Martínez, Nicolás Tagliafico; Rodrigo De Paul, Enzo Fernández, Alexis Mac Allister, Nicolás González; Lionel Messi, Julián Álvarez.
+- **Cambios de Argentina:** Nicolás Otamendi por Lisandro Martínez (44'), Leandro Paredes por Nicolás González (45'), Nahuel Molina por Montiel (58'), Facundo Medina por Romero (70'), Giuliano Simeone por De Paul (70') y Marcos Senesi por Julián Álvarez (102').
+- **Tarjetas:** España no recibió tarjetas. En Argentina fueron amonestados Lisandro Martínez (41'), Leandro Paredes (52'), Enzo Fernández (82'), Cristian Romero (90+2') y Alexis Mac Allister (111'); Enzo Fernández fue expulsado por segunda amarilla (90+3').
+
+### Estadísticas de la final
+
+| Estadística | España | Argentina |
+|---|---|---|
+| Posesión | 65 % | 35 % |
+| Remates totales | 20 | 2 |
+| Remates al arco | 12 | 0 |
+| Goles esperados (xG) | 1,94 | 0,22 |
+| Pases completados | 762 de 852 | 357 de 463 |
+| Tiros de esquina | 9 | 4 |
+| Faltas cometidas | 21 | 25 |
+| Atajadas del arquero | 0 | 11 |
+| Tarjetas amarillas | 0 | 6 |
+| Tarjetas rojas | 0 | 1 |
+
+España dominó el partido: tuvo entre el 65 % y el 68 % de la posesión según la fuente y 20 remates, mientras que Argentina no registró ningún remate al arco en los 120 minutos. El arquero Emiliano Martínez sostuvo el 0-0 hasta la prórroga. Con Argentina jugando con diez hombres, Ferran Torres, que había entrado como suplente al minuto 62, definió de cerca al minuto 106. Fue su único gol en el torneo.
+
+España ganó su segundo título 16 años después del de 2010, que también fue 1-0 en la prórroga (ante Países Bajos). Argentina no logró ser el primer bicampeón consecutivo desde Brasil (1958 y 1962). Lionel Messi, con 39 años y 25 días, se convirtió en el jugador de campo de mayor edad en disputar una final mundialista. Messi fue además el primer jugador en ser titular en tres finales mundialistas (2014, 2022 y 2026). Fue la primera final entre los campeones vigentes de Europa (España, Eurocopa 2024) y de Sudamérica (Argentina, Copa América 2024). El único antecedente mundialista entre ambos era de 1966, con triunfo argentino 2-1 en fase de grupos. Para el espectáculo de medio tiempo, el primero de este tipo en una final, se anunció a Madonna, Shakira y BTS, con curaduría de Chris Martin.
 
 ### Camino de los finalistas
 
@@ -533,7 +560,7 @@ España ganó su segundo título 16 años después del de 2010, que también fue
 | Guante de Oro (mejor arquero) | Unai Simón | España | Un solo gol recibido en 8 partidos |
 | Mejor Jugador Joven | Pau Cubarsí | España | |
 | Trofeo Fair Play | — | Países Bajos | |
-| Máximo asistente | Michael Olise | Francia | |
+| Máximo asistente | Michael Olise | Francia | 7 asistencias |
 
 ### 9.2 Tabla de goleadores
 
@@ -550,13 +577,297 @@ España ganó su segundo título 16 años después del de 2010, que también fue
 | 9 | Julián Quiñones | México | 4 | 5 |
 | 10 | Vinícius Júnior | Brasil | 4 | 5 |
 
-Messi marcó sus 8 goles en los primeros cinco partidos (6 en la fase de grupos, incluido un triplete ante Argelia) y no anotó en cuartos, semifinal ni final. Mbappé llegó a 10 con un doblete en el partido por el tercer puesto.
+Messi marcó sus 8 goles en los primeros cinco partidos (6 en la fase de grupos, incluido un triplete ante Argelia) y no anotó en cuartos, semifinal ni final. Mbappé marcó 4 en la fase de grupos, 2 en dieciseisavos, 1 en octavos, 1 en cuartos y 2 en el partido por el tercer puesto. La tabla completa, con todos los jugadores que marcaron, está en la sección 10.
 
 **Fuentes:** [Sky Sports – Bota de Oro](https://skysports.com/football/news/11095/13564837/world-cup-2026-golden-boot-race-kylian-mbappe-beats-lionel-messi-to-become-top-goalscorer), [Databoks – goleadores finales](https://databoks.katadata.co.id/en/sport/statistics/6a5d7b2e5d1b5/kylian-mbappe-becomes-the-top-scorer-of-the-2026-world-cup).
 
 ---
 
-## 10. Récords, hitos y datos curiosos
+## 10. Tabla completa de goleadores del torneo
+
+En el Mundial 2026 marcaron 179 jugadores distintos, que sumaron 295 goles; los 13 restantes corresponden a autogoles o a goles sin autor identificado en las fuentes. Esta sección indica cuántos goles hizo cada futbolista en todo el torneo (fase de grupos más eliminatorias, sin contar tandas de penales). Si un jugador no aparece en esta tabla, no marcó goles en el Mundial 2026.
+
+### 10.1 Goles por jugador
+
+- Kylian Mbappé (Francia): 10 goles en el Mundial 2026.
+- Lionel Messi (Argentina): 8 goles en el Mundial 2026.
+- Erling Haaland (Noruega): 7 goles en el Mundial 2026.
+- Jude Bellingham (Inglaterra): 7 goles en el Mundial 2026.
+- Harry Kane (Inglaterra): 6 goles en el Mundial 2026.
+- Ousmane Dembélé (Francia): 6 goles en el Mundial 2026.
+- Mikel Oyarzabal (España): 5 goles en el Mundial 2026.
+- Ismaïla Sarr (Senegal): 4 goles en el Mundial 2026.
+- Julián Quiñones (México): 4 goles en el Mundial 2026.
+- Vinícius Júnior (Brasil): 4 goles en el Mundial 2026.
+- Bradley Barcola (Francia): 3 goles en el Mundial 2026.
+- Brian Brobbey (Países Bajos): 3 goles en el Mundial 2026.
+- Bukayo Saka (Inglaterra): 3 goles en el Mundial 2026.
+- Charles De Ketelaere (Bélgica): 3 goles en el Mundial 2026.
+- Cody Gakpo (Países Bajos): 3 goles en el Mundial 2026.
+- Cristiano Ronaldo (Portugal): 3 goles en el Mundial 2026.
+- Deniz Undav (Alemania): 3 goles en el Mundial 2026.
+- Elijah (Eli) Just (Nueva Zelanda): 3 goles en el Mundial 2026.
+- Folarin Balogun (Estados Unidos): 3 goles en el Mundial 2026.
+- Ismael Saibari (Marruecos): 3 goles en el Mundial 2026.
+- Johan Manzambi (Suiza): 3 goles en el Mundial 2026.
+- Jonathan David (Canadá): 3 goles en el Mundial 2026.
+- Kai Havertz (Alemania): 3 goles en el Mundial 2026.
+- Lautaro Martínez (Argentina): 3 goles en el Mundial 2026.
+- Matheus Cunha (Brasil): 3 goles en el Mundial 2026.
+- Raúl Jiménez (México): 3 goles en el Mundial 2026.
+- Romelu Lukaku (Bélgica): 3 goles en el Mundial 2026.
+- Yoane Wissa (RD Congo): 3 goles en el Mundial 2026.
+- Amad Diallo (Costa de Marfil): 2 goles en el Mundial 2026.
+- Anthony Elanga (Suecia): 2 goles en el Mundial 2026.
+- Ayase Ueda (Japón): 2 goles en el Mundial 2026.
+- Azzedine Ounahi (Marruecos): 2 goles en el Mundial 2026.
+- Breel Embolo (Suiza): 2 goles en el Mundial 2026.
+- Crysencio Summerville (Países Bajos): 2 goles en el Mundial 2026.
+- Cyle Larin (Canadá): 2 goles en el Mundial 2026.
+- Daichi Kamada (Japón): 2 goles en el Mundial 2026.
+- Dan Ndoye (Suiza): 2 goles en el Mundial 2026.
+- Daniel Muñoz (Colombia): 2 goles en el Mundial 2026.
+- Emam Ashour (Egipto): 2 goles en el Mundial 2026.
+- Enzo Fernández (Argentina): 2 goles en el Mundial 2026.
+- Ermin Mahmić (Bosnia y Herzegovina): 2 goles en el Mundial 2026.
+- Habib Diarra (Senegal): 2 goles en el Mundial 2026.
+- Leandro Trossard (Bélgica): 2 goles en el Mundial 2026.
+- Malik Tillman (Estados Unidos): 2 goles en el Mundial 2026.
+- Marko Arnautović (Austria): 2 goles en el Mundial 2026.
+- Maximiliano Araújo (Uruguay): 2 goles en el Mundial 2026.
+- Mikel Merino (España): 2 goles en el Mundial 2026.
+- Mostafa 'Ziko' Abdel Raouf (Egipto): 2 goles en el Mundial 2026.
+- Nicolas Pépé (Costa de Marfil): 2 goles en el Mundial 2026.
+- Pape Gueye (Senegal): 2 goles en el Mundial 2026.
+- Pedro Porro (España): 2 goles en el Mundial 2026.
+- Ramin Rezaeian (Irán): 2 goles en el Mundial 2026.
+- Riyad Mahrez (Argelia): 2 goles en el Mundial 2026.
+- Rubén Vargas (Suiza): 2 goles en el Mundial 2026.
+- Soufiane Rahimi (Marruecos): 2 goles en el Mundial 2026.
+- Yasin Ayari (Suecia): 2 goles en el Mundial 2026.
+- Youri Tielemans (Bélgica): 2 goles en el Mundial 2026.
+- Abbosbek Fayzullaev (Uzbekistán): 1 gol en el Mundial 2026.
+- Abdulelah Al Amri (Arabia Saudita): 1 gol en el Mundial 2026.
+- Achraf Hakimi (Marruecos): 1 gol en el Mundial 2026.
+- Agustín Canobbio (Uruguay): 1 gol en el Mundial 2026.
+- Alex Freeman (Estados Unidos): 1 gol en el Mundial 2026.
+- Alexander Isak (Suecia): 1 gol en el Mundial 2026.
+- Alexis Mac Allister (Argentina): 1 gol en el Mundial 2026.
+- Alexis Saelemaekers (Bélgica): 1 gol en el Mundial 2026.
+- Ali Olwan (Jordania): 1 gol en el Mundial 2026.
+- Amine Gouiri (Argelia): 1 gol en el Mundial 2026.
+- Andreas Schjelderup (Noruega): 1 gol en el Mundial 2026.
+- Ante Budimir (Croacia): 1 gol en el Mundial 2026.
+- Anthony Gordon (Inglaterra): 1 gol en el Mundial 2026.
+- Antonio Nusa (Noruega): 1 gol en el Mundial 2026.
+- Arda Güler (Turquía): 1 gol en el Mundial 2026.
+- Auston Trusty (Estados Unidos): 1 gol en el Mundial 2026.
+- Aymen Hussein (Irak): 1 gol en el Mundial 2026.
+- Boualem Khoukhi (Catar): 1 gol en el Mundial 2026.
+- Brian Cipenga (RD Congo): 1 gol en el Mundial 2026.
+- Caleb Yirenkyi (Ghana): 1 gol en el Mundial 2026.
+- Casemiro (Brasil): 1 gol en el Mundial 2026.
+- Connor Metcalfe (Australia): 1 gol en el Mundial 2026.
+- Cristian Romero (Argentina): 1 gol en el Mundial 2026.
+- Daizen Maeda (Japón): 1 gol en el Mundial 2026.
+- Declan Rice (Inglaterra): 1 gol en el Mundial 2026.
+- Deroy Duarte (Cabo Verde): 1 gol en el Mundial 2026.
+- Derrick Luckassen (Ghana): 1 gol en el Mundial 2026.
+- Désiré Doué (Francia): 1 gol en el Mundial 2026.
+- Eldor Shomurodov (Uzbekistán): 1 gol en el Mundial 2026.
+- Ezri Konsa (Inglaterra): 1 gol en el Mundial 2026.
+- Fabián Ruiz (España): 1 gol en el Mundial 2026.
+- Felix Nmecha (Alemania): 1 gol en el Mundial 2026.
+- Ferran Torres (España): 1 gol en el Mundial 2026.
+- Finn Surman (Nueva Zelanda): 1 gol en el Mundial 2026.
+- Fiston Mayele (RD Congo): 1 gol en el Mundial 2026.
+- Franck Kessié (Costa de Marfil): 1 gol en el Mundial 2026.
+- Gabriel Martinelli (Brasil): 1 gol en el Mundial 2026.
+- Gessime Yassine (Marruecos): 1 gol en el Mundial 2026.
+- Gio Reyna (Estados Unidos): 1 gol en el Mundial 2026.
+- Giovani Lo Celso (Argentina): 1 gol en el Mundial 2026.
+- Gonzalo Plata (Ecuador): 1 gol en el Mundial 2026.
+- Gonçalo Ramos (Portugal): 1 gol en el Mundial 2026.
+- Granit Xhaka (Suiza): 1 gol en el Mundial 2026.
+- Hans Vanaken (Bélgica): 1 gol en el Mundial 2026.
+- Hassan Al Haydos (Catar): 1 gol en el Mundial 2026.
+- Hazem Mastouri (Túnez): 1 gol en el Mundial 2026.
+- Hwang In-beom (Corea del Sur): 1 gol en el Mundial 2026.
+- Hélio Varela (Cabo Verde): 1 gol en el Mundial 2026.
+- Ibrahim Mbaye (Senegal): 1 gol en el Mundial 2026.
+- Iliman Ndiaye (Senegal): 1 gol en el Mundial 2026.
+- Issa Diop (Marruecos): 1 gol en el Mundial 2026.
+- Ivan Perišić (Croacia): 1 gol en el Mundial 2026.
+- Jamal Musiala (Alemania): 1 gol en el Mundial 2026.
+- Jaminton Campaz (Colombia): 1 gol en el Mundial 2026.
+- Jan Paul van Hecke (Países Bajos): 1 gol en el Mundial 2026.
+- Jhon Arias (Colombia): 1 gol en el Mundial 2026.
+- John McGinn (Escocia): 1 gol en el Mundial 2026.
+- Jovo Lukić (Bosnia y Herzegovina): 1 gol en el Mundial 2026.
+- João Neves (Portugal): 1 gol en el Mundial 2026.
+- Julio Enciso (Paraguay): 1 gol en el Mundial 2026.
+- Julián Álvarez (Argentina): 1 gol en el Mundial 2026.
+- Junya Ito (Japón): 1 gol en el Mundial 2026.
+- Kaan Ayhan (Turquía): 1 gol en el Mundial 2026.
+- Kaishu Sano (Japón): 1 gol en el Mundial 2026.
+- Keito Nakamura (Japón): 1 gol en el Mundial 2026.
+- Kerim Alajbegović (Bosnia y Herzegovina): 1 gol en el Mundial 2026.
+- Kevin De Bruyne (Bélgica): 1 gol en el Mundial 2026.
+- Kevin Pina (Cabo Verde): 1 gol en el Mundial 2026.
+- Ladislav Krejčí (República Checa): 1 gol en el Mundial 2026.
+- Lamine Yamal (España): 1 gol en el Mundial 2026.
+- Leo Østigård (Noruega): 1 gol en el Mundial 2026.
+- Leroy Sané (Alemania): 1 gol en el Mundial 2026.
+- Lisandro Martínez (Argentina): 1 gol en el Mundial 2026.
+- Livano Comenencia (Curazao): 1 gol en el Mundial 2026.
+- Luis Díaz (Colombia): 1 gol en el Mundial 2026.
+- Luis Romo (México): 1 gol en el Mundial 2026.
+- Mahmoud Saber (Egipto): 1 gol en el Mundial 2026.
+- Marcel Sabitzer (Austria): 1 gol en el Mundial 2026.
+- Marcus Holmgren Pedersen (Noruega): 1 gol en el Mundial 2026.
+- Marcus Rashford (Inglaterra): 1 gol en el Mundial 2026.
+- Martin Baturina (Croacia): 1 gol en el Mundial 2026.
+- Mateo Chávez (México): 1 gol en el Mundial 2026.
+- Mattias Svanberg (Suecia): 1 gol en el Mundial 2026.
+- Matías Galarza (Paraguay): 1 gol en el Mundial 2026.
+- Mauricio (Maurício Magalhães) (Paraguay): 1 gol en el Mundial 2026.
+- Michal Sadílek (República Checa): 1 gol en el Mundial 2026.
+- Mohamed Salah (Egipto): 1 gol en el Mundial 2026.
+- Mohammad Mohebi (Irán): 1 gol en el Mundial 2026.
+- Mousa Al Tamari (Jordania): 1 gol en el Mundial 2026.
+- Nadhir Benbouali (Argelia): 1 gol en el Mundial 2026.
+- Nathan Saliba (Canadá): 1 gol en el Mundial 2026.
+- Nathaniel Brown (Alemania): 1 gol en el Mundial 2026.
+- Nestory Irankunda (Australia): 1 gol en el Mundial 2026.
+- Neymar (Brasil): 1 gol en el Mundial 2026.
+- Nico Schlotterbeck (Alemania): 1 gol en el Mundial 2026.
+- Nikola Vlašić (Croacia): 1 gol en el Mundial 2026.
+- Nilson Angulo (Ecuador): 1 gol en el Mundial 2026.
+- Nizar Al Rashdan (Jordania): 1 gol en el Mundial 2026.
+- Nuno Mendes (Portugal): 1 gol en el Mundial 2026.
+- Oh Hyeon-gyu (Corea del Sur): 1 gol en el Mundial 2026.
+- Omar Rekik (Túnez): 1 gol en el Mundial 2026.
+- Orkun Kökçü (Turquía): 1 gol en el Mundial 2026.
+- Petar Musa (Croacia): 1 gol en el Mundial 2026.
+- Petar Sučić (Croacia): 1 gol en el Mundial 2026.
+- Promise David (Canadá): 1 gol en el Mundial 2026.
+- Rafael Leão (Portugal): 1 gol en el Mundial 2026.
+- Rafik Belghali (Argelia): 1 gol en el Mundial 2026.
+- Romano Schmid (Austria): 1 gol en el Mundial 2026.
+- Saša Kalajdžić (Austria): 1 gol en el Mundial 2026.
+- Sebastian Berhalter (Estados Unidos): 1 gol en el Mundial 2026.
+- Sidny Cabral (Cabo Verde): 1 gol en el Mundial 2026.
+- Stephen Eustáquio (Canadá): 1 gol en el Mundial 2026.
+- Teboho Mokoena (Sudáfrica): 1 gol en el Mundial 2026.
+- Thapelo Maseko (Sudáfrica): 1 gol en el Mundial 2026.
+- Thelo Aasgaard (Noruega): 1 gol en el Mundial 2026.
+- Trézéguet (Mahmoud Hassan) (Egipto): 1 gol en el Mundial 2026.
+- Viktor Gyökeres (Suecia): 1 gol en el Mundial 2026.
+- Virgil van Dijk (Países Bajos): 1 gol en el Mundial 2026.
+- Wilson Isidor (Haití): 1 gol en el Mundial 2026.
+- Yasser Ibrahim (Egipto): 1 gol en el Mundial 2026.
+- Álex Baena (España): 1 gol en el Mundial 2026.
+- Álvaro Fidalgo (México): 1 gol en el Mundial 2026.
+
+### 10.2 Goleadores por selección
+
+- **Goleadores de Francia (20 goles en total):** Kylian Mbappé (10), Ousmane Dembélé (6), Bradley Barcola (3), Désiré Doué (1).
+- **Goleadores de Inglaterra (20 goles en total):** Jude Bellingham (7), Harry Kane (6), Bukayo Saka (3), Anthony Gordon (1), Declan Rice (1), Ezri Konsa (1), Marcus Rashford (1).
+- **Goleadores de Argentina (19 goles en total):** Lionel Messi (8), Lautaro Martínez (3), Enzo Fernández (2), Alexis Mac Allister (1), Cristian Romero (1), Giovani Lo Celso (1), Julián Álvarez (1), Lisandro Martínez (1). Además: 1 gol adicional no aparece atribuido a ningún jugador en la fuente de goleadores (probable autogol a favor).
+- **Goleadores de Bélgica (14 goles en total):** Charles De Ketelaere (3), Romelu Lukaku (3), Leandro Trossard (2), Youri Tielemans (2), Alexis Saelemaekers (1), Hans Vanaken (1), Kevin De Bruyne (1). Además: autogol del rival Mohamed Hany.
+- **Goleadores de España (14 goles en total):** Mikel Oyarzabal (5), Mikel Merino (2), Pedro Porro (2), Fabián Ruiz (1), Ferran Torres (1), Lamine Yamal (1), Álex Baena (1). Además: autogol del rival Hassan Tambakti.
+- **Goleadores de Noruega (13 goles en total):** Erling Haaland (7), Andreas Schjelderup (1), Antonio Nusa (1), Leo Østigård (1), Marcus Holmgren Pedersen (1), Thelo Aasgaard (1). Además: autogol del rival Aymen Hussein.
+- **Goleadores de Alemania (11 goles en total):** Deniz Undav (3), Kai Havertz (3), Felix Nmecha (1), Jamal Musiala (1), Leroy Sané (1), Nathaniel Brown (1), Nico Schlotterbeck (1).
+- **Goleadores de Estados Unidos (11 goles en total):** Folarin Balogun (3), Malik Tillman (2), Alex Freeman (1), Auston Trusty (1), Gio Reyna (1), Sebastian Berhalter (1). Además: autogoles de los rivales Cameron Burgess y Damián Bobadilla.
+- **Goleadores de Países Bajos (11 goles en total):** Brian Brobbey (3), Cody Gakpo (3), Crysencio Summerville (2), Jan Paul van Hecke (1), Virgil van Dijk (1). Además: autogol del rival Ellyes Skhiri.
+- **Goleadores de Brasil (10 goles en total):** Vinícius Júnior (4), Matheus Cunha (3), Casemiro (1), Gabriel Martinelli (1), Neymar (1).
+- **Goleadores de Marruecos (10 goles en total):** Ismael Saibari (3), Azzedine Ounahi (2), Soufiane Rahimi (2), Achraf Hakimi (1), Gessime Yassine (1), Issa Diop (1).
+- **Goleadores de México (10 goles en total):** Julián Quiñones (4), Raúl Jiménez (3), Luis Romo (1), Mateo Chávez (1), Álvaro Fidalgo (1).
+- **Goleadores de Senegal (10 goles en total):** Ismaïla Sarr (4), Habib Diarra (2), Pape Gueye (2), Ibrahim Mbaye (1), Iliman Ndiaye (1).
+- **Goleadores de Suiza (10 goles en total):** Johan Manzambi (3), Breel Embolo (2), Dan Ndoye (2), Rubén Vargas (2), Granit Xhaka (1).
+- **Goleadores de Canadá (9 goles en total):** Jonathan David (3), Cyle Larin (2), Nathan Saliba (1), Promise David (1), Stephen Eustáquio (1). Además: autogol del rival Mohammed Mannai.
+- **Goleadores de Egipto (8 goles en total):** Emam Ashour (2), Mostafa 'Ziko' Abdel Raouf (2), Mahmoud Saber (1), Mohamed Salah (1), Trézéguet (Mahmoud Hassan) (1), Yasser Ibrahim (1).
+- **Goleadores de Japón (8 goles en total):** Ayase Ueda (2), Daichi Kamada (2), Daizen Maeda (1), Junya Ito (1), Kaishu Sano (1), Keito Nakamura (1).
+- **Goleadores de Portugal (8 goles en total):** Cristiano Ronaldo (3), Gonçalo Ramos (1), João Neves (1), Nuno Mendes (1), Rafael Leão (1). Además: autogol del rival Abduvohid Nematov.
+- **Goleadores de Suecia (7 goles en total):** Anthony Elanga (2), Yasin Ayari (2), Alexander Isak (1), Mattias Svanberg (1), Viktor Gyökeres (1).
+- **Goleadores de Austria (6 goles en total):** Marko Arnautović (2), Marcel Sabitzer (1), Romano Schmid (1), Saša Kalajdžić (1). Además: autogol del rival Yazan Al Arab.
+- **Goleadores de Croacia (6 goles en total):** Ante Budimir (1), Ivan Perišić (1), Martin Baturina (1), Nikola Vlašić (1), Petar Musa (1), Petar Sučić (1).
+- **Goleadores de Argelia (5 goles en total):** Riyad Mahrez (2), Amine Gouiri (1), Nadhir Benbouali (1), Rafik Belghali (1).
+- **Goleadores de Bosnia y Herzegovina (5 goles en total):** Ermin Mahmić (2), Jovo Lukić (1), Kerim Alajbegović (1). Además: autogol del rival Mahmoud Abunada.
+- **Goleadores de Colombia (5 goles en total):** Daniel Muñoz (2), Jaminton Campaz (1), Jhon Arias (1), Luis Díaz (1).
+- **Goleadores de Costa de Marfil (5 goles en total):** Amad Diallo (2), Nicolas Pépé (2), Franck Kessié (1).
+- **Goleadores de RD Congo (5 goles en total):** Yoane Wissa (3), Brian Cipenga (1), Fiston Mayele (1).
+- **Goleadores de Cabo Verde (4 goles en total):** Deroy Duarte (1), Hélio Varela (1), Kevin Pina (1), Sidny Cabral (1).
+- **Goleadores de Nueva Zelanda (4 goles en total):** Elijah (Eli) Just (3), Finn Surman (1).
+- **Goleadores de Australia (3 goles en total):** Connor Metcalfe (1), Nestory Irankunda (1). Además: 1 gol adicional no aparece atribuido a ningún jugador en la fuente de goleadores (probable autogol a favor).
+- **Goleadores de Irán (3 goles en total):** Ramin Rezaeian (2), Mohammad Mohebi (1).
+- **Goleadores de Jordania (3 goles en total):** Ali Olwan (1), Mousa Al Tamari (1), Nizar Al Rashdan (1).
+- **Goleadores de Paraguay (3 goles en total):** Julio Enciso (1), Matías Galarza (1), Mauricio (Maurício Magalhães) (1).
+- **Goleadores de Turquía (3 goles en total):** Arda Güler (1), Kaan Ayhan (1), Orkun Kökçü (1).
+- **Goleadores de Uruguay (3 goles en total):** Maximiliano Araújo (2), Agustín Canobbio (1).
+- **Goleadores de Catar (2 goles en total):** Boualem Khoukhi (1), Hassan Al Haydos (1).
+- **Goleadores de Corea del Sur (2 goles en total):** Hwang In-beom (1), Oh Hyeon-gyu (1).
+- **Goleadores de Ecuador (2 goles en total):** Gonzalo Plata (1), Nilson Angulo (1).
+- **Goleadores de Ghana (2 goles en total):** Caleb Yirenkyi (1), Derrick Luckassen (1).
+- **Goleadores de Haití (2 goles en total):** Wilson Isidor (1). Además: autogol del rival Yassine Bounou.
+- **Goleadores de República Checa (2 goles en total):** Ladislav Krejčí (1), Michal Sadílek (1).
+- **Goleadores de Sudáfrica (2 goles en total):** Teboho Mokoena (1), Thapelo Maseko (1).
+- **Goleadores de Túnez (2 goles en total):** Hazem Mastouri (1), Omar Rekik (1).
+- **Goleadores de Uzbekistán (2 goles en total):** Abbosbek Fayzullaev (1), Eldor Shomurodov (1).
+- **Goleadores de Arabia Saudita (1 gol en total):** Abdulelah Al Amri (1).
+- **Goleadores de Curazao (1 gol en total):** Livano Comenencia (1).
+- **Goleadores de Escocia (1 gol en total):** John McGinn (1).
+- **Goleadores de Irak (1 gol en total):** Aymen Hussein (1).
+- **Goleadores de Panamá:** ninguno; Panamá no marcó goles en el torneo.
+
+### 10.3 Autogoles identificados
+
+- Cameron Burgess (Australia), a favor de Estados Unidos.
+- Damián Bobadilla (Paraguay), a favor de Estados Unidos.
+- Mohamed Hany (Egipto), a favor de Bélgica.
+- Aymen Hussein (Irak), a favor de Noruega.
+- Yazan Al Arab (Jordania), a favor de Austria.
+- Yassine Bounou (Marruecos), a favor de Haití.
+- Mahmoud Abunada (Catar), a favor de Bosnia y Herzegovina.
+- Mohammed Mannai (Catar), a favor de Canadá.
+- Hassan Tambakti (Arabia Saudita), a favor de España.
+- Miro Muheim (Suiza), a favor de Catar. (Otra fuente atribuye ese gol al catarí Boualem Khoukhi.)
+- Ellyes Skhiri (Túnez), a favor de Países Bajos.
+- Abduvohid Nematov (Uzbekistán), a favor de Portugal.
+
+Además, un gol de Australia (ante Egipto, en dieciseisavos) y uno de Argentina (en la fase eliminatoria) no aparecen atribuidos a ningún jugador en la fuente de goleadores; lo más probable es que hayan sido autogoles a favor. Si el gol de Catar ante Suiza se cuenta como de Boualem Khoukhi, los autogoles identificados son 11.
+
+### 10.4 Tripletes y partidos destacados de goleadores
+
+- Lionel Messi marcó un triplete ante Argelia (16 de junio), en su partido internacional número 200 con Argentina.
+- Bukayo Saka marcó un triplete ante Francia en el partido por el tercer puesto (18 de julio).
+- Erling Haaland marcó doblete en cada uno de sus dos primeros partidos mundialistas (ante Irak y Senegal) y otro doblete ante Brasil en octavos.
+- Jude Bellingham marcó doblete en octavos (ante México) y en cuartos (ante Noruega).
+- Mikel Oyarzabal marcó dos dobletes: ante Arabia Saudita y ante Austria.
+- Harry Kane marcó doblete ante Croacia y ante RD Congo.
+
+### 10.5 Líderes estadísticos individuales
+
+| Categoría | Jugador | Selección | Cifra |
+|---|---|---|---|
+| Goles | Kylian Mbappé | Francia | 10 |
+| Asistencias | Michael Olise | Francia | 7 |
+| Goles + asistencias | Kylian Mbappé | Francia | 14 |
+| Remates | Kylian Mbappé | Francia | 41 |
+| Pases completados | Rodri | España | 756 |
+| Pases largos completados | Rodri | España | 37 |
+| Regates exitosos | Lionel Messi | Argentina | 28 |
+| Duelos ganados | Lionel Messi | Argentina | 60 |
+| Pases clave | Lionel Messi | Argentina | 26 |
+| Grandes ocasiones creadas | Lionel Messi | Argentina | 8 |
+
+Las cifras de pases, regates y duelos provienen de sitios especializados (SofaScore y WhoScored) y pueden variar levemente frente a las estadísticas oficiales de la FIFA.
+
+**Fuentes:** [11v11 – goleadores del Mundial 2026](https://www.11v11.com/competitions/fifa-world-cup/2026/goal-scorers/), [SBS – estadísticas finales](https://www.sbs.com.au/sport/fifa-world-cup-2026/statistics) y [Foot Africa – líderes estadísticos](https://foot-africa.com/en/news/world-cup-2026-the-tournaments-top-statistical-performers-1289782/).
+
+---
+
+## 11. Récords, hitos y datos curiosos
 
 - **Primer Mundial de 48 selecciones**, 104 partidos y tres países anfitriones; también el más largo (39 días).
 - **España** fue campeona invicta y recibió un solo gol en ocho partidos (el de Bélgica en cuartos), la menor cifra para un campeón. Además, tiene simultáneamente los títulos mundiales masculino y femenino (ganó el femenino en 2023).
@@ -567,6 +878,14 @@ Messi marcó sus 8 goles en los primeros cinco partidos (6 en la fase de grupos,
 - **Emiliano Martínez** hizo 11 atajadas en la final, récord para un arquero en una final mundialista.
 - **Francia 4-6 Inglaterra** es el partido por el tercer puesto con más goles de la historia (10).
 - **Mayores goleadas:** Alemania 7-1 Curazao y Canadá 6-0 Catar.
+- **Récord de goles en fase de grupos:** se marcaron 215 goles en los 72 partidos de grupos; la marca anterior era de 172 (Catar 2022, con 48 partidos).
+- **Selecciones más goleadoras:** Francia e Inglaterra, con 20 goles cada una, seguidas de Argentina con 19. España tuvo la mejor diferencia de gol (+13) y siete vallas invictas en ocho partidos.
+- **Gol 3.000 de la historia de los Mundiales:** lo marcó el argentino Enzo Fernández.
+- **Tres jugadores con 7 goles o más** en un mismo Mundial (Mbappé, Messi y Haaland, a los que se sumó Bellingham), algo que no había ocurrido antes.
+- **Cristiano Ronaldo** llegó a 10 goles en Mundiales y superó a Eusébio (9) como máximo goleador portugués en la historia del torneo.
+- **Senegal** fue la primera selección africana en marcar cinco goles en un partido mundialista (5-0 a Irak).
+- **Primeras veces en fase eliminatoria:** Sudáfrica, RD Congo y Egipto superaron la fase de grupos por primera vez.
+- **Asistencia promedio:** más de 65.000 espectadores por partido y 99,7 % de ocupación de los estadios; tras 102 partidos se habían superado los 6,66 millones de asistentes.
 - **Asistencia récord:** el 25 de junio de 2026 se superó la marca de 3.587.538 espectadores de Estados Unidos 1994, cuando aún faltaban 44 partidos. El 16 de junio se registró el récord de asistencia en un solo día (281.223 personas en cuatro partidos). El total del torneo fue cercano a 6,9 millones.
 - **Sabri Lamouchi** (Túnez) fue el primer entrenador de la historia despedido después de un solo partido de un Mundial; lo reemplazó Hervé Renard.
 - **Primera terna arbitral femenina** en cancha en un Mundial masculino (18 de junio de 2026).
@@ -579,7 +898,7 @@ Messi marcó sus 8 goles en los primeros cinco partidos (6 en la fase de grupos,
 
 ---
 
-## 11. Balance final por selección
+## 12. Balance final por selección
 
 | Instancia alcanzada | Selecciones |
 |---|---|
@@ -591,6 +910,61 @@ Messi marcó sus 8 goles en los primeros cinco partidos (6 en la fase de grupos,
 | Eliminados en octavos de final (8) | Paraguay, Canadá, Brasil, México, Portugal, Estados Unidos, Egipto, Colombia |
 | Eliminados en dieciseisavos de final (16) | Sudáfrica, Alemania, Países Bajos, Japón, Suecia, Costa de Marfil, Ecuador, RD Congo, Bosnia y Herzegovina, Senegal, Croacia, Austria, Argelia, Cabo Verde, Ghana, Australia |
 | Eliminados en fase de grupos (16) | Corea del Sur, República Checa, Catar, Escocia, Haití, Turquía, Curazao, Túnez, Irán, Nueva Zelanda, Uruguay, Arabia Saudita, Irak, Jordania, Uzbekistán, Panamá |
+
+### Tabla general de las 48 selecciones
+
+Incluye todos los partidos jugados (grupos y eliminatorias). Los partidos definidos por penales cuentan como empate. PJ = partidos jugados, G = ganados, E = empatados, P = perdidos, GF = goles a favor, GC = goles en contra, DG = diferencia de gol.
+
+| Selección | Instancia | PJ | G | E | P | GF | GC | DG |
+|---|---|---|---|---|---|---|---|---|
+| España | Campeón | 8 | 7 | 1 | 0 | 14 | 1 | +13 |
+| Argentina | Subcampeón | 8 | 7 | 0 | 1 | 19 | 8 | +11 |
+| Inglaterra | Tercer lugar | 8 | 6 | 1 | 1 | 20 | 12 | +8 |
+| Francia | Cuarto lugar | 8 | 6 | 0 | 2 | 20 | 10 | +10 |
+| Noruega | Cuartos de final | 6 | 4 | 0 | 2 | 13 | 11 | +2 |
+| Bélgica | Cuartos de final | 6 | 3 | 2 | 1 | 14 | 7 | +7 |
+| Marruecos | Cuartos de final | 6 | 3 | 2 | 1 | 10 | 6 | +4 |
+| Suiza | Cuartos de final | 6 | 3 | 2 | 1 | 10 | 6 | +4 |
+| México | Octavos de final | 5 | 4 | 0 | 1 | 10 | 3 | +7 |
+| Colombia | Octavos de final | 5 | 3 | 2 | 0 | 5 | 1 | +4 |
+| Brasil | Octavos de final | 5 | 3 | 1 | 1 | 10 | 4 | +6 |
+| Estados Unidos | Octavos de final | 5 | 3 | 0 | 2 | 11 | 8 | +3 |
+| Portugal | Octavos de final | 5 | 2 | 2 | 1 | 8 | 3 | +5 |
+| Canadá | Octavos de final | 5 | 2 | 1 | 2 | 9 | 6 | +3 |
+| Egipto | Octavos de final | 5 | 1 | 3 | 1 | 8 | 7 | +1 |
+| Paraguay | Octavos de final | 5 | 1 | 2 | 2 | 3 | 6 | -3 |
+| Países Bajos | Dieciseisavos de final | 4 | 2 | 2 | 0 | 11 | 5 | +6 |
+| Alemania | Dieciseisavos de final | 4 | 2 | 1 | 1 | 11 | 5 | +6 |
+| Costa de Marfil | Dieciseisavos de final | 4 | 2 | 0 | 2 | 5 | 4 | +1 |
+| Croacia | Dieciseisavos de final | 4 | 2 | 0 | 2 | 6 | 7 | -1 |
+| Japón | Dieciseisavos de final | 4 | 1 | 2 | 1 | 8 | 5 | +3 |
+| Australia | Dieciseisavos de final | 4 | 1 | 2 | 1 | 3 | 3 | +0 |
+| RD Congo | Dieciseisavos de final | 4 | 1 | 1 | 2 | 5 | 5 | +0 |
+| Ghana | Dieciseisavos de final | 4 | 1 | 1 | 2 | 2 | 3 | -1 |
+| Ecuador | Dieciseisavos de final | 4 | 1 | 1 | 2 | 2 | 4 | -2 |
+| Sudáfrica | Dieciseisavos de final | 4 | 1 | 1 | 2 | 2 | 4 | -2 |
+| Suecia | Dieciseisavos de final | 4 | 1 | 1 | 2 | 7 | 10 | -3 |
+| Austria | Dieciseisavos de final | 4 | 1 | 1 | 2 | 6 | 9 | -3 |
+| Bosnia y Herzegovina | Dieciseisavos de final | 4 | 1 | 1 | 2 | 5 | 8 | -3 |
+| Argelia | Dieciseisavos de final | 4 | 1 | 1 | 2 | 5 | 9 | -4 |
+| Senegal | Dieciseisavos de final | 4 | 1 | 0 | 3 | 10 | 9 | +1 |
+| Cabo Verde | Dieciseisavos de final | 4 | 0 | 3 | 1 | 4 | 5 | -1 |
+| Irán | Fase de grupos | 3 | 0 | 3 | 0 | 3 | 3 | +0 |
+| Corea del Sur | Fase de grupos | 3 | 1 | 0 | 2 | 2 | 3 | -1 |
+| Turquía | Fase de grupos | 3 | 1 | 0 | 2 | 3 | 5 | -2 |
+| Escocia | Fase de grupos | 3 | 1 | 0 | 2 | 1 | 4 | -3 |
+| Uruguay | Fase de grupos | 3 | 0 | 2 | 1 | 3 | 4 | -1 |
+| Arabia Saudita | Fase de grupos | 3 | 0 | 2 | 1 | 1 | 5 | -4 |
+| República Checa | Fase de grupos | 3 | 0 | 1 | 2 | 2 | 6 | -4 |
+| Nueva Zelanda | Fase de grupos | 3 | 0 | 1 | 2 | 4 | 10 | -6 |
+| Catar | Fase de grupos | 3 | 0 | 1 | 2 | 2 | 10 | -8 |
+| Curazao | Fase de grupos | 3 | 0 | 1 | 2 | 1 | 9 | -8 |
+| Panamá | Fase de grupos | 3 | 0 | 0 | 3 | 0 | 4 | -4 |
+| Jordania | Fase de grupos | 3 | 0 | 0 | 3 | 3 | 8 | -5 |
+| Haití | Fase de grupos | 3 | 0 | 0 | 3 | 2 | 8 | -6 |
+| Uzbekistán | Fase de grupos | 3 | 0 | 0 | 3 | 2 | 11 | -9 |
+| Túnez | Fase de grupos | 3 | 0 | 0 | 3 | 2 | 12 | -10 |
+| Irak | Fase de grupos | 3 | 0 | 0 | 3 | 1 | 12 | -11 |
 
 ### Premios económicos
 
@@ -611,7 +985,7 @@ Sumando la preparación, el mínimo por selección fue de 12,5 millones de dóla
 
 ---
 
-## 12. Colombia en el Mundial 2026
+## 13. Colombia en el Mundial 2026
 
 Colombia, dirigida por Néstor Lorenzo, integró el Grupo K y lo ganó invicta con 7 puntos (2 victorias y 1 empate, 4 goles a favor y 1 en contra).
 
@@ -621,20 +995,21 @@ Colombia, dirigida por Néstor Lorenzo, integró el Grupo K y lo ganó invicta c
 - Dieciseisavos de final (3 de julio de 2026, Kansas City (Arrowhead Stadium)): Colombia 1-0 Ghana.
 - Octavos de final (7 de julio de 2026, Vancouver (BC Place)): Suiza 0-0 Colombia (tras prórroga; 4-3 en penales).
 
-Los goles colombianos en la fase de grupos fueron de Daniel Muñoz (2), Luis Díaz y Jaminton Campaz. Colombia fue eliminada en octavos de final sin haber perdido ningún partido en el tiempo de juego: cayó 4-3 en la tanda de penales ante Suiza. En cinco partidos recibió un solo gol. La convocatoria completa está en la sección 13.
+Colombia marcó 5 goles en el torneo: Daniel Muñoz (2), Luis Díaz, Jaminton Campaz y Jhon Arias. Los cuatro primeros fueron en la fase de grupos y el de Jhon Arias le dio el triunfo 1-0 ante Ghana en dieciseisavos. El capitán fue James Rodríguez. Colombia fue eliminada en octavos de final sin haber perdido ningún partido en el tiempo de juego: cayó 4-3 en la tanda de penales ante Suiza. En cinco partidos recibió un solo gol. La convocatoria completa está en la sección 14.
 
 ---
 
-## 13. Convocatorias de las 48 selecciones
+## 14. Convocatorias de las 48 selecciones
 
 Cada selección inscribió 26 jugadores. Se listan por grupo, con el director técnico (DT), la confederación y el recorrido de cada selección en el torneo.
 
-### 13.1 Convocatorias del Grupo A
+### 14.1 Convocatorias del Grupo A
 
 #### Selección de México (Grupo A)
 
 - **Director técnico de México:** Javier Aguirre.
 - **Confederación:** CONCACAF (anfitrión).
+- **Capitán de México:** Edson Álvarez.
 - **Porteros de México:** Raul Rangel, Guillermo Ochoa, Carlos Acevedo.
 - **Defensas de México:** Jorge Sanchez, Israel Reyes, Cesar Montes, Johan Vasquez, Jesus Gallardo, Mateo Chavez, Edson Alvarez.
 - **Mediocampistas de México:** Erik Lira, Orbelin Pineda, Alvaro Fidalgo, Brian Gutierrez, Luis Romo, Obed Vargas, Gilberto Mora, Luis Chavez.
@@ -642,11 +1017,13 @@ Cada selección inscribió 26 jugadores. Se listan por grupo, con el director t�
 - **Fase de grupos de México:** 1.º del Grupo A con 9 puntos (3 victorias, 0 empates, 0 derrotas; 6 goles a favor y 0 en contra). Resultados: México 2-0 Sudáfrica; México 1-0 Corea del Sur; República Checa 0-3 México.
 - **Eliminatorias de México:** dieciseisavos de final: México 2-0 Ecuador; octavos de final: México 2-3 Inglaterra.
 - **Resultado final de México:** Eliminación en octavos de final ante Inglaterra.
+- **Goleadores de México en el torneo:** Julián Quiñones (4), Raúl Jiménez (3), Luis Romo (1), Mateo Chávez (1), Álvaro Fidalgo (1).
 
 #### Selección de Sudáfrica (Grupo A)
 
 - **Director técnico de Sudáfrica:** Hugo Broos.
 - **Confederación:** CAF.
+- **Capitán de Sudáfrica:** Ronwen Williams.
 - **Porteros de Sudáfrica:** Ronwen Williams, Ricardo Goss, Sipho Chaine.
 - **Defensas de Sudáfrica:** Aubrey Modiba, Khuliso Mudau, Khulumani Ndamane, Kamogelo Sebelebele, Nkosinathi Sibisi, Bradley Cross, Samukele Kabini, Olwethu Makhanya, Thabang Matuludi, Mbekezeli Mbokazi, Ime Okon.
 - **Mediocampistas de Sudáfrica:** Oswin Appollis, Thalente Mbatha, Relebohile Mofokeng, Jayden Adams, Teboho Mokoena, Themba Zwane, Sphephelo Sithole.
@@ -654,36 +1031,42 @@ Cada selección inscribió 26 jugadores. Se listan por grupo, con el director t�
 - **Fase de grupos de Sudáfrica:** 2.º del Grupo A con 4 puntos (1 victoria, 1 empate, 1 derrota; 2 goles a favor y 3 en contra). Resultados: México 2-0 Sudáfrica; República Checa 1-1 Sudáfrica; Sudáfrica 1-0 Corea del Sur.
 - **Eliminatorias de Sudáfrica:** dieciseisavos de final: Sudáfrica 0-1 Canadá.
 - **Resultado final de Sudáfrica:** Eliminación en dieciseisavos de final ante Canadá.
+- **Goleadores de Sudáfrica en el torneo:** Teboho Mokoena (1), Thapelo Maseko (1).
 
 #### Selección de Corea del Sur (Grupo A)
 
 - **Director técnico de Corea del Sur:** Hong Myung-bo.
 - **Confederación:** AFC.
+- **Capitán de Corea del Sur:** Son Heung-min.
 - **Porteros de Corea del Sur:** Song Bumkeun, Jo Hyeonwoo, Kim Seung-gyu.
 - **Defensas de Corea del Sur:** Jens Castrop, Lee Hanbeom, Park Jinseob, Lee Kihyuk, Kim Minjae, Kim Moonhwan, Kim Taehyeon, Lee Taeseok, Seol Youngwoo, Cho Wije.
 - **Mediocampistas de Corea del Sur:** Lee Donggyeong, Hwang Heechan, Yang Hyunjun, Hwang Inbeom, Lee Jaesung, Kim Jingyu, Eom Jisung, Bae Junho, Lee Kangin, Paik Seungho.
 - **Delanteros de Corea del Sur:** Cho Guesung, Son Heungmin, Oh Hyeongyu.
 - **Fase de grupos de Corea del Sur:** 3.º del Grupo A con 3 puntos (1 victoria, 0 empates, 2 derrotas; 2 goles a favor y 3 en contra). Resultados: Corea del Sur 2-1 República Checa; México 1-0 Corea del Sur; Sudáfrica 1-0 Corea del Sur.
 - **Resultado final de Corea del Sur:** Eliminación en la fase de grupos.
+- **Goleadores de Corea del Sur en el torneo:** Hwang In-beom (1), Oh Hyeon-gyu (1).
 
 #### Selección de República Checa (Grupo A)
 
 - **Director técnico de República Checa:** Miroslav Koubek.
 - **Confederación:** UEFA (repechaje, ruta D).
+- **Capitán de República Checa:** Ladislav Krejčí.
 - **Porteros de República Checa:** Lukas Hornicek, Matej Kovar, Jindrich Stanek.
 - **Defensas de República Checa:** Vladimir Coufal, David Doudera, Tomas Holes, Robin Hranac, Stepan Chaloupek, David Jurasek, Ladislav Krejci, Jaroslav Zeleny, David Zima.
 - **Mediocampistas de República Checa:** Lukas Cerv, Vladimir Darida, Lukas Provod, Michal Sadilek, Hugo Sochurek, Alexandr Sojka, Tomas Soucek, Pavel Sulc, Denis Visinsky.
 - **Delanteros de República Checa:** Adam Hlozek, Tomas Chory, Mojmir Chytil, Jan Kuchta, Patrik Schick.
 - **Fase de grupos de República Checa:** 4.º del Grupo A con 1 puntos (0 victorias, 1 empate, 2 derrotas; 2 goles a favor y 6 en contra). Resultados: Corea del Sur 2-1 República Checa; República Checa 1-1 Sudáfrica; República Checa 0-3 México.
 - **Resultado final de República Checa:** Eliminación en la fase de grupos.
+- **Goleadores de República Checa en el torneo:** Ladislav Krejčí (1), Michal Sadílek (1).
 - **Nota:** La FIFA la denomina oficialmente Chequia.
 
-### 13.2 Convocatorias del Grupo B
+### 14.2 Convocatorias del Grupo B
 
 #### Selección de Suiza (Grupo B)
 
 - **Director técnico de Suiza:** Murat Yakin.
 - **Confederación:** UEFA.
+- **Capitán de Suiza:** Granit Xhaka.
 - **Porteros de Suiza:** Marvin Keller, Gregor Kobel, Yvon Mvogo.
 - **Defensas de Suiza:** Manuel Akanji, Aurele Amenda, Eray Comert, Nico Elvedi, Luca Jaquez, Miro Muheim, Ricardo Rodriguez, Silvan Widmer.
 - **Mediocampistas de Suiza:** Michel Aebischer, Christian Fassnacht, Remo Freuler, Ardon Jashari, Fabian Rieder, Djibril Sow, Cedric Itten, Granit Xhaka, Denis Zakaria.
@@ -691,11 +1074,13 @@ Cada selección inscribió 26 jugadores. Se listan por grupo, con el director t�
 - **Fase de grupos de Suiza:** 1.º del Grupo B con 7 puntos (2 victorias, 1 empate, 0 derrotas; 7 goles a favor y 3 en contra). Resultados: Catar 1-1 Suiza; Suiza 4-1 Bosnia y Herzegovina; Suiza 2-1 Canadá.
 - **Eliminatorias de Suiza:** dieciseisavos de final: Suiza 2-0 Argelia; octavos de final: Suiza 0-0 Colombia (tras prórroga; 4-3 en penales); cuartos de final: Argentina 3-1 Suiza (tras prórroga).
 - **Resultado final de Suiza:** Eliminación en cuartos de final ante Argentina.
+- **Goleadores de Suiza en el torneo:** Johan Manzambi (3), Breel Embolo (2), Dan Ndoye (2), Rubén Vargas (2), Granit Xhaka (1).
 
 #### Selección de Canadá (Grupo B)
 
 - **Director técnico de Canadá:** Jesse Marsch.
 - **Confederación:** CONCACAF (anfitrión).
+- **Capitán de Canadá:** Alphonso Davies.
 - **Porteros de Canadá:** Dayne St Clair, Maxime Crepeau, Owen Goodman.
 - **Defensas de Canadá:** Alistair Johnston, Derek Cornelius, Richie Laryea, Niko Sigur, Joel Waterman, Luc de Fougerolles, Moise Bombito, Alphonso Davies, Alfie Jones.
 - **Mediocampistas de Canadá:** Stephen Eustaquio, Ismael Kone, Tajon Buchanan, Mathieu Choiniere, Ali Ahmed, Nathan Saliba, Liam Millar, Jacob Shaffelburg, Jonathan Osorio, Jayden Nelson.
@@ -703,12 +1088,14 @@ Cada selección inscribió 26 jugadores. Se listan por grupo, con el director t�
 - **Fase de grupos de Canadá:** 2.º del Grupo B con 4 puntos (1 victoria, 1 empate, 1 derrota; 8 goles a favor y 3 en contra). Resultados: Canadá 1-1 Bosnia y Herzegovina; Canadá 6-0 Catar; Suiza 2-1 Canadá.
 - **Eliminatorias de Canadá:** dieciseisavos de final: Sudáfrica 0-1 Canadá; octavos de final: Canadá 0-3 Marruecos.
 - **Resultado final de Canadá:** Eliminación en octavos de final ante Marruecos.
+- **Goleadores de Canadá en el torneo:** Jonathan David (3), Cyle Larin (2), Nathan Saliba (1), Promise David (1), Stephen Eustáquio (1).
 - **Nota:** Marcelo Flores fue convocado inicialmente, pero se lesionó la rodilla un día después del anuncio y fue reemplazado por Jayden Nelson.
 
 #### Selección de Bosnia y Herzegovina (Grupo B)
 
 - **Director técnico de Bosnia y Herzegovina:** Sergej Barbarez.
 - **Confederación:** UEFA (repechaje, ruta A).
+- **Capitán de Bosnia y Herzegovina:** Edin Džeko.
 - **Porteros de Bosnia y Herzegovina:** Nikola Vasilj, Martin Zlomislic, Osman Hadzikic.
 - **Defensas de Bosnia y Herzegovina:** Sead Kolasinac, Amar Dedic, Nihad Mujakic, Nikola Katic, Tarik Muharemovic, Stjepan Radeljic, Dennis Hadzikadunic, Nidal Celik.
 - **Mediocampistas de Bosnia y Herzegovina:** Amir Hadziahmetovic, Ivan Sunjic, Ivan Basic, Dzenis Burnic, Ermin Mahmic, Benjamin Tahirovic, Amar Memic, Armin Gigovic, Kerim Alajbegovic, Esmir Bajraktarevic.
@@ -716,26 +1103,30 @@ Cada selección inscribió 26 jugadores. Se listan por grupo, con el director t�
 - **Fase de grupos de Bosnia y Herzegovina:** 3.º del Grupo B con 4 puntos (1 victoria, 1 empate, 1 derrota; 5 goles a favor y 6 en contra). Resultados: Canadá 1-1 Bosnia y Herzegovina; Suiza 4-1 Bosnia y Herzegovina; Bosnia y Herzegovina 3-1 Catar.
 - **Eliminatorias de Bosnia y Herzegovina:** dieciseisavos de final: Estados Unidos 2-0 Bosnia y Herzegovina.
 - **Resultado final de Bosnia y Herzegovina:** Eliminación en dieciseisavos de final ante Estados Unidos.
+- **Goleadores de Bosnia y Herzegovina en el torneo:** Ermin Mahmić (2), Jovo Lukić (1), Kerim Alajbegović (1).
 - **Nota:** Clasificó eliminando a Italia por penales en la final del repechaje europeo.
 
 #### Selección de Catar (Grupo B)
 
 - **Director técnico de Catar:** Julen Lopetegui.
 - **Confederación:** AFC.
+- **Capitán de Catar:** Hassan Al Haydos.
 - **Porteros de Catar:** Salah Zakaria, Meshaal Barsham, Mahmoud Abunada.
 - **Defensas de Catar:** Boualem Khoukhi, Pedro Miguel, Sultan Al Brake, Al Hashmi Al Hussain, Ayoub Al Alawi, Issa Laye, Lucas Mendes, Homam Al Amin.
 - **Mediocampistas de Catar:** Ahmed Fathi, Jassim Gaber, Assim Madibo, Abdulaziz Hatem, Karim Boudiaf, Mohammed Mannai.
 - **Delanteros de Catar:** Almoez Ali, Akram Afif, Tahsin Mohammed, Edmilson Junior, Ahmed Al-Janehi, Ahmed Alaa, Hassan Al Haydos, Mohammed Muntari, Yusuf Abdurisag.
 - **Fase de grupos de Catar:** 4.º del Grupo B con 1 puntos (0 victorias, 1 empate, 2 derrotas; 2 goles a favor y 10 en contra). Resultados: Catar 1-1 Suiza; Canadá 6-0 Catar; Bosnia y Herzegovina 3-1 Catar.
 - **Resultado final de Catar:** Eliminación en la fase de grupos.
+- **Goleadores de Catar en el torneo:** Boualem Khoukhi (1), Hassan Al Haydos (1).
 - **Nota:** Primera vez que Catar clasifica a un Mundial por la vía deportiva (en 2022 participó como anfitrión).
 
-### 13.3 Convocatorias del Grupo C
+### 14.3 Convocatorias del Grupo C
 
 #### Selección de Brasil (Grupo C)
 
 - **Director técnico de Brasil:** Carlo Ancelotti.
 - **Confederación:** CONMEBOL.
+- **Capitán de Brasil:** Marquinhos.
 - **Porteros de Brasil:** Alisson, Ederson, Weverton.
 - **Defensas de Brasil:** Alex Sandro, Bremer, Danilo, Douglas Santos, Gabriel Magalhaes, Ibanez, Leo Pereira, Marquinhos, Wesley.
 - **Mediocampistas de Brasil:** Bruno Guimaraes, Casemiro, Danilo Santos, Fabinho, Lucas Paqueta.
@@ -743,11 +1134,13 @@ Cada selección inscribió 26 jugadores. Se listan por grupo, con el director t�
 - **Fase de grupos de Brasil:** 1.º del Grupo C con 7 puntos (2 victorias, 1 empate, 0 derrotas; 7 goles a favor y 1 en contra). Resultados: Brasil 1-1 Marruecos; Brasil 3-0 Haití; Escocia 0-3 Brasil.
 - **Eliminatorias de Brasil:** dieciseisavos de final: Brasil 2-1 Japón; octavos de final: Brasil 1-2 Noruega.
 - **Resultado final de Brasil:** Eliminación en octavos de final ante Noruega.
+- **Goleadores de Brasil en el torneo:** Vinícius Júnior (4), Matheus Cunha (3), Casemiro (1), Gabriel Martinelli (1), Neymar (1).
 
 #### Selección de Marruecos (Grupo C)
 
 - **Director técnico de Marruecos:** Mohamed Ouahbi.
 - **Confederación:** CAF.
+- **Capitán de Marruecos:** Achraf Hakimi.
 - **Porteros de Marruecos:** Yassine Bounou, Munir El Kajoui, Ahmed Reda Tagnaouti.
 - **Defensas de Marruecos:** Noussair Mazraoui, Anas Salah-Eddine, Youssef Bellammari, Achraf Hakimi, Zakaria El Ouahdi, Nayef Aguerd, Chadi Riad, Redouane Halhal, Issa Diop.
 - **Mediocampistas de Marruecos:** Samir El Mourabet, Ayoub Bouaddi, Neil El Aynaoui, Sofyan Amrabat, Azzedine Ounahi, Bilal El Khannouss, Ismael Saibari.
@@ -755,37 +1148,43 @@ Cada selección inscribió 26 jugadores. Se listan por grupo, con el director t�
 - **Fase de grupos de Marruecos:** 2.º del Grupo C con 7 puntos (2 victorias, 1 empate, 0 derrotas; 6 goles a favor y 3 en contra). Resultados: Brasil 1-1 Marruecos; Escocia 0-1 Marruecos; Marruecos 4-2 Haití.
 - **Eliminatorias de Marruecos:** dieciseisavos de final: Países Bajos 1-1 Marruecos (tras prórroga; 2-3 en penales); octavos de final: Canadá 0-3 Marruecos; cuartos de final: Francia 2-0 Marruecos.
 - **Resultado final de Marruecos:** Eliminación en cuartos de final ante Francia.
+- **Goleadores de Marruecos en el torneo:** Ismael Saibari (3), Azzedine Ounahi (2), Soufiane Rahimi (2), Achraf Hakimi (1), Gessime Yassine (1), Issa Diop (1).
 
 #### Selección de Escocia (Grupo C)
 
 - **Director técnico de Escocia:** Steve Clarke.
 - **Confederación:** UEFA.
+- **Capitán de Escocia:** Andy Robertson.
 - **Porteros de Escocia:** Craig Gordon, Angus Gunn, Liam Kelly.
 - **Defensas de Escocia:** Grant Hanley, Jack Hendry, Aaron Hickey, Dom Hyam, Scott McKenna, Nathan Patterson, Anthony Ralston, Andy Robertson, John Souttar, Kieran Tierney.
 - **Mediocampistas de Escocia:** Ryan Christie, Findlay Curtis, Lewis Ferguson, Tyler Fletcher, Ben Gannon-Doak, John McGinn, Kenny McLean, Scott McTominay.
 - **Delanteros de Escocia:** Che Adams, Lyndon Dykes, George Hirst, Lawrence Shankland, Ross Stewart.
 - **Fase de grupos de Escocia:** 3.º del Grupo C con 3 puntos (1 victoria, 0 empates, 2 derrotas; 1 goles a favor y 4 en contra). Resultados: Haití 0-1 Escocia; Escocia 0-1 Marruecos; Escocia 0-3 Brasil.
 - **Resultado final de Escocia:** Eliminación en la fase de grupos.
+- **Goleadores de Escocia en el torneo:** John McGinn (1).
 - **Nota:** Regresó a un Mundial por primera vez desde 1998.
 
 #### Selección de Haití (Grupo C)
 
 - **Director técnico de Haití:** Sébastien Migné.
 - **Confederación:** CONCACAF.
+- **Capitán de Haití:** Johny Placide.
 - **Porteros de Haití:** Josue Duverger, Alexandre Pierre, Johny Placide.
 - **Defensas de Haití:** Ricardo Ade, Carlens Arcus, Hannes Delcroix, Jean-Kevin Duverne, Martin Experience, Duke Lacroix, Wilguens Paugain, Keeto Thermoncy.
 - **Mediocampistas de Haití:** Carl Fred Sainte, Jean-Ricner Bellegarde, Leverton Pierre, Danley Jean Jacques, Woodensky Pierre, Dominique Simon.
 - **Delanteros de Haití:** Josue Casimir, Louicius Deedson, Derrick Etienne Jr., Yassin Fortune, Wilson Isidor, Lenny Joseph, Duckens Nazon, Frantzdy Pierrot, Ruben Providence.
 - **Fase de grupos de Haití:** 4.º del Grupo C con 0 puntos (0 victorias, 0 empates, 3 derrotas; 2 goles a favor y 8 en contra). Resultados: Haití 0-1 Escocia; Brasil 3-0 Haití; Marruecos 4-2 Haití.
 - **Resultado final de Haití:** Eliminación en la fase de grupos.
+- **Goleadores de Haití en el torneo:** Wilson Isidor (1).
 - **Nota:** Regresó a un Mundial tras 52 años (su única participación previa fue en 1974).
 
-### 13.4 Convocatorias del Grupo D
+### 14.4 Convocatorias del Grupo D
 
 #### Selección de Estados Unidos (Grupo D)
 
 - **Director técnico de Estados Unidos:** Mauricio Pochettino.
 - **Confederación:** CONCACAF (anfitrión).
+- **Capitán de Estados Unidos:** Tim Ream.
 - **Porteros de Estados Unidos:** Chris Brady, Matt Freese, Matt Turner.
 - **Defensas de Estados Unidos:** Max Arfsten, Sergino Dest, Alex Freeman, Mark McKenzie, Tim Ream, Chris Richards, Antonee Robinson, Miles Robinson, Joe Scally, Auston Trusty.
 - **Mediocampistas de Estados Unidos:** Tyler Adams, Sebastian Berhalter, Weston McKennie, Cristian Roldan, Brenden Aaronson, Christian Pulisic, Gio Reyna, Malik Tillman, Tim Weah, Alejandro Zendejas.
@@ -793,11 +1192,13 @@ Cada selección inscribió 26 jugadores. Se listan por grupo, con el director t�
 - **Fase de grupos de Estados Unidos:** 1.º del Grupo D con 6 puntos (2 victorias, 0 empates, 1 derrota; 8 goles a favor y 4 en contra). Resultados: Estados Unidos 4-1 Paraguay; Estados Unidos 2-0 Australia; Turquía 3-2 Estados Unidos.
 - **Eliminatorias de Estados Unidos:** dieciseisavos de final: Estados Unidos 2-0 Bosnia y Herzegovina; octavos de final: Estados Unidos 1-4 Bélgica.
 - **Resultado final de Estados Unidos:** Eliminación en octavos de final ante Bélgica.
+- **Goleadores de Estados Unidos en el torneo:** Folarin Balogun (3), Malik Tillman (2), Alex Freeman (1), Auston Trusty (1), Gio Reyna (1), Sebastian Berhalter (1).
 
 #### Selección de Australia (Grupo D)
 
 - **Director técnico de Australia:** Tony Popovic.
 - **Confederación:** AFC.
+- **Capitán de Australia:** Mathew Ryan.
 - **Porteros de Australia:** Patrick Beach, Paul Izzo, Mathew Ryan.
 - **Defensas de Australia:** Aziz Behich, Jordan Bos, Cameron Burgess, Alessandro Circati, Milos Degenek, Jason Geria, Lucas Herrington, Jacob Italiano, Harry Souttar, Kai Trewin.
 - **Mediocampistas de Australia:** Cameron Devlin, Ajdin Hrustic, Jackson Irvine, Connor Metcalfe, Aiden O'Neill, Paul Okon-Engstler.
@@ -805,11 +1206,13 @@ Cada selección inscribió 26 jugadores. Se listan por grupo, con el director t�
 - **Fase de grupos de Australia:** 2.º del Grupo D con 4 puntos (1 victoria, 1 empate, 1 derrota; 2 goles a favor y 2 en contra). Resultados: Australia 2-0 Turquía; Estados Unidos 2-0 Australia; Paraguay 0-0 Australia.
 - **Eliminatorias de Australia:** dieciseisavos de final: Australia 1-1 Egipto (tras prórroga; 2-4 en penales).
 - **Resultado final de Australia:** Eliminación en dieciseisavos de final ante Egipto.
+- **Goleadores de Australia en el torneo:** Connor Metcalfe (1), Nestory Irankunda (1).
 
 #### Selección de Paraguay (Grupo D)
 
 - **Director técnico de Paraguay:** Gustavo Alfaro.
 - **Confederación:** CONMEBOL.
+- **Capitán de Paraguay:** Gustavo Gómez.
 - **Porteros de Paraguay:** Orlando Gill, Roberto Fernandez, Gaston Olveira.
 - **Defensas de Paraguay:** Juan Caceres, Gustavo Velazquez, Gustavo Gomez, Junior Alonso, Jose Canale, Omar Alderete, Alexandro Maidana, Fabian Balbuena.
 - **Mediocampistas de Paraguay:** Diego Gomez, Mauricio Magalhaes, Damian Bobadilla, Braian Ojeda, Andres Cubas, Matias Galarza, Alejandro Gamarra.
@@ -817,25 +1220,29 @@ Cada selección inscribió 26 jugadores. Se listan por grupo, con el director t�
 - **Fase de grupos de Paraguay:** 3.º del Grupo D con 4 puntos (1 victoria, 1 empate, 1 derrota; 2 goles a favor y 4 en contra). Resultados: Estados Unidos 4-1 Paraguay; Turquía 0-1 Paraguay; Paraguay 0-0 Australia.
 - **Eliminatorias de Paraguay:** dieciseisavos de final: Alemania 1-1 Paraguay (tras prórroga; 3-4 en penales); octavos de final: Paraguay 0-1 Francia.
 - **Resultado final de Paraguay:** Eliminación en octavos de final ante Francia.
+- **Goleadores de Paraguay en el torneo:** Julio Enciso (1), Matías Galarza (1), Mauricio (Maurício Magalhães) (1).
 
 #### Selección de Turquía (Grupo D)
 
 - **Director técnico de Turquía:** Vincenzo Montella.
 - **Confederación:** UEFA (repechaje, ruta C).
+- **Capitán de Turquía:** Hakan Çalhanoğlu.
 - **Porteros de Turquía:** Altay Bayindir, Mert Gunok, Ugurcan Cakir.
 - **Defensas de Turquía:** Abdulkerim Bardakci, Caglar Soyuncu, Eren Elmali, Ferdi Kadioglu, Merih Demiral, Mert Muldur, Ozan Kabak, Samet Akaydin, Zeki Celik.
 - **Mediocampistas de Turquía:** Hakan Calhanoglu, Ismail Yuksek, Kaan Ayhan, Orkun Kokcu, Salih Ozcan.
 - **Delanteros de Turquía:** Arda Guler, Baris Alper Yilmaz, Can Uzun, Deniz Gul, Irfan Can Kahveci, Kenan Yildiz, Kerem Akturkoglu, Oguz Aydin, Yunus Akgun.
 - **Fase de grupos de Turquía:** 4.º del Grupo D con 3 puntos (1 victoria, 0 empates, 2 derrotas; 3 goles a favor y 5 en contra). Resultados: Australia 2-0 Turquía; Turquía 0-1 Paraguay; Turquía 3-2 Estados Unidos.
 - **Resultado final de Turquía:** Eliminación en la fase de grupos.
+- **Goleadores de Turquía en el torneo:** Arda Güler (1), Kaan Ayhan (1), Orkun Kökçü (1).
 - **Nota:** La FIFA la denomina oficialmente Türkiye.
 
-### 13.5 Convocatorias del Grupo E
+### 14.5 Convocatorias del Grupo E
 
 #### Selección de Alemania (Grupo E)
 
 - **Director técnico de Alemania:** Julian Nagelsmann.
 - **Confederación:** UEFA.
+- **Capitán de Alemania:** Joshua Kimmich.
 - **Porteros de Alemania:** Manuel Neuer, Oliver Baumann, Alexander Nuebel.
 - **Defensas de Alemania:** Nico Schlotterbeck, David Raum, Nathaniel Brown, Jonathan Tah, Waldemar Anton, Joshua Kimmich, Malick Thiaw, Antonio Rudiger.
 - **Mediocampistas de Alemania:** Pascal Gross, Leon Goretzka, Felix Nmecha, Jamal Musiala, Nadiem Amiri, Jamie Leweling, Lennart Karl, Florian Wirtz, Leroy Sane, Aleksandar Pavlovic, Angelo Stiller.
@@ -843,11 +1250,13 @@ Cada selección inscribió 26 jugadores. Se listan por grupo, con el director t�
 - **Fase de grupos de Alemania:** 1.º del Grupo E con 6 puntos (2 victorias, 0 empates, 1 derrota; 10 goles a favor y 4 en contra). Resultados: Alemania 7-1 Curazao; Alemania 2-1 Costa de Marfil; Ecuador 2-1 Alemania.
 - **Eliminatorias de Alemania:** dieciseisavos de final: Alemania 1-1 Paraguay (tras prórroga; 3-4 en penales).
 - **Resultado final de Alemania:** Eliminación en dieciseisavos de final ante Paraguay.
+- **Goleadores de Alemania en el torneo:** Deniz Undav (3), Kai Havertz (3), Felix Nmecha (1), Jamal Musiala (1), Leroy Sané (1), Nathaniel Brown (1), Nico Schlotterbeck (1).
 
 #### Selección de Costa de Marfil (Grupo E)
 
 - **Director técnico de Costa de Marfil:** Emerse Faé.
 - **Confederación:** CAF.
+- **Capitán de Costa de Marfil:** Franck Kessié.
 - **Porteros de Costa de Marfil:** Yahia Fofana, Mohamed Kone, Alban Lafont.
 - **Defensas de Costa de Marfil:** Emmanuel Agbadou, Christopher Operi, Ousmane Diomande, Guela Doue, Ghislain Konan, Odilon Kossounou, Wilfried Singo, Evan Ndicka.
 - **Mediocampistas de Costa de Marfil:** Seko Fofana, Parfait Guiagon, Christ Inao Oulai, Franck Kessie, Ibrahim Sangare, Jean Michael Seri.
@@ -855,11 +1264,13 @@ Cada selección inscribió 26 jugadores. Se listan por grupo, con el director t�
 - **Fase de grupos de Costa de Marfil:** 2.º del Grupo E con 6 puntos (2 victorias, 0 empates, 1 derrota; 4 goles a favor y 2 en contra). Resultados: Costa de Marfil 1-0 Ecuador; Alemania 2-1 Costa de Marfil; Curazao 0-2 Costa de Marfil.
 - **Eliminatorias de Costa de Marfil:** dieciseisavos de final: Costa de Marfil 1-2 Noruega.
 - **Resultado final de Costa de Marfil:** Eliminación en dieciseisavos de final ante Noruega.
+- **Goleadores de Costa de Marfil en el torneo:** Amad Diallo (2), Nicolas Pépé (2), Franck Kessié (1).
 
 #### Selección de Ecuador (Grupo E)
 
 - **Director técnico de Ecuador:** Sebastián Beccacece.
 - **Confederación:** CONMEBOL.
+- **Capitán de Ecuador:** Enner Valencia.
 - **Porteros de Ecuador:** Hernan Galindez, Moises Ramirez, Gonzalo Valle.
 - **Defensas de Ecuador:** Piero Hincapie, Willian Pacho, Pervis Estupinan, Felix Torres, Joel Ordonez, Jackson Porozo, Angelo Preciado, Yaimar Medina.
 - **Mediocampistas de Ecuador:** Moises Caicedo, Alan Franco, Kendry Paez, Gonzalo Plata, Pedro Vite, Jordy Alcivar, Denil Castillo, John Yeboah, Nilson Angulo, Alan Minda.
@@ -867,25 +1278,29 @@ Cada selección inscribió 26 jugadores. Se listan por grupo, con el director t�
 - **Fase de grupos de Ecuador:** 3.º del Grupo E con 4 puntos (1 victoria, 1 empate, 1 derrota; 2 goles a favor y 2 en contra). Resultados: Costa de Marfil 1-0 Ecuador; Ecuador 0-0 Curazao; Ecuador 2-1 Alemania.
 - **Eliminatorias de Ecuador:** dieciseisavos de final: México 2-0 Ecuador.
 - **Resultado final de Ecuador:** Eliminación en dieciseisavos de final ante México.
+- **Goleadores de Ecuador en el torneo:** Gonzalo Plata (1), Nilson Angulo (1).
 
 #### Selección de Curazao (Grupo E)
 
 - **Director técnico de Curazao:** Dick Advocaat.
 - **Confederación:** CONCACAF.
+- **Capitán de Curazao:** Leandro Bacuna.
 - **Porteros de Curazao:** Tyrick Bodack, Trevor Doornbusch, Eloy Room.
 - **Defensas de Curazao:** Riechedly Bazoer, Joshua Brenet, Roshon van Eijma, Sherel Floranus, Deveron Fonville, Jurien Gaari, Armando Obispo, Shurandy Sambo.
 - **Mediocampistas de Curazao:** Juninho Bacuna, Leandro Bacuna, Livano Comenencia, Kevin Felida, Ar'jany Martha, Tyrese Noslin, Godfried Roemeratoe.
 - **Delanteros de Curazao:** Jeremy Antonisse, Tahith Chong, Kenji Gorre, Sontje Hansen, Gervane Kastaneer, Brandley Kuwas, Jurgen Locadia, Jearl Margaritha.
 - **Fase de grupos de Curazao:** 4.º del Grupo E con 1 puntos (0 victorias, 1 empate, 2 derrotas; 1 goles a favor y 9 en contra). Resultados: Alemania 7-1 Curazao; Ecuador 0-0 Curazao; Curazao 0-2 Costa de Marfil.
 - **Resultado final de Curazao:** Eliminación en la fase de grupos.
+- **Goleadores de Curazao en el torneo:** Livano Comenencia (1).
 - **Nota:** Debutante. Es el país más pequeño en superficie y el menos poblado que ha clasificado a un Mundial.
 
-### 13.6 Convocatorias del Grupo F
+### 14.6 Convocatorias del Grupo F
 
 #### Selección de Países Bajos (Grupo F)
 
 - **Director técnico de Países Bajos:** Ronald Koeman.
 - **Confederación:** UEFA.
+- **Capitán de Países Bajos:** Virgil van Dijk.
 - **Porteros de Países Bajos:** Mark Flekken, Robin Roefs, Bart Verbruggen.
 - **Defensas de Países Bajos:** Nathan Ake, Virgil van Dijk, Denzel Dumfries, Jan Paul van Hecke, Jurrien Timber, Jorrel Hato, Micky van de Ven.
 - **Mediocampistas de Países Bajos:** Ryan Gravenberch, Frenkie de Jong, Teun Koopmeiners, Tijjani Reijnders, Marten de Roon, Guus Til, Quinten Timber, Mats Wieffer.
@@ -893,12 +1308,14 @@ Cada selección inscribió 26 jugadores. Se listan por grupo, con el director t�
 - **Fase de grupos de Países Bajos:** 1.º del Grupo F con 7 puntos (2 victorias, 1 empate, 0 derrotas; 10 goles a favor y 4 en contra). Resultados: Países Bajos 2-2 Japón; Países Bajos 5-1 Suecia; Túnez 1-3 Países Bajos.
 - **Eliminatorias de Países Bajos:** dieciseisavos de final: Países Bajos 1-1 Marruecos (tras prórroga; 2-3 en penales).
 - **Resultado final de Países Bajos:** Eliminación en dieciseisavos de final ante Marruecos.
+- **Goleadores de Países Bajos en el torneo:** Brian Brobbey (3), Cody Gakpo (3), Crysencio Summerville (2), Jan Paul van Hecke (1), Virgil van Dijk (1).
 - **Nota:** Ganó el Trofeo Fair Play de la FIFA.
 
 #### Selección de Japón (Grupo F)
 
 - **Director técnico de Japón:** Hajime Moriyasu.
 - **Confederación:** AFC.
+- **Capitán de Japón:** Wataru Endo.
 - **Porteros de Japón:** Tomoki Hayakawa, Keisuke Osako, Zion Suzuki.
 - **Defensas de Japón:** Ko Itakura, Hiroki Ito, Yuto Nagatomo, Ayumu Seko, Yukinari Sugawara, Junnosuke Suzuki, Shogo Taniguchi, Takehiro Tomiyasu, Tsuyoshi Watanabe.
 - **Mediocampistas de Japón:** Ritsu Doan, Wataru Endo, Junya Ito, Daichi Kamada, Takefusa Kubo, Keito Nakamura, Kaishu Sano, Ao Tanaka.
@@ -906,11 +1323,13 @@ Cada selección inscribió 26 jugadores. Se listan por grupo, con el director t�
 - **Fase de grupos de Japón:** 2.º del Grupo F con 5 puntos (1 victoria, 2 empates, 0 derrotas; 7 goles a favor y 3 en contra). Resultados: Países Bajos 2-2 Japón; Túnez 0-4 Japón; Japón 1-1 Suecia.
 - **Eliminatorias de Japón:** dieciseisavos de final: Brasil 2-1 Japón.
 - **Resultado final de Japón:** Eliminación en dieciseisavos de final ante Brasil.
+- **Goleadores de Japón en el torneo:** Ayase Ueda (2), Daichi Kamada (2), Daizen Maeda (1), Junya Ito (1), Kaishu Sano (1), Keito Nakamura (1).
 
 #### Selección de Suecia (Grupo F)
 
 - **Director técnico de Suecia:** Graham Potter.
 - **Confederación:** UEFA (repechaje, ruta B).
+- **Capitán de Suecia:** Victor Lindelöf.
 - **Porteros de Suecia:** Viktor Johansson, Kristoffer Nordfeldt, Jacob Zetterstrom.
 - **Defensas de Suecia:** Hjalmar Ekdal, Gabriel Gudmundsson, Isak Hien, Emil Holm, Gustaf Lagerbielke, Victor Lindelof, Eric Smith, Carl Starfelt, Elliot Stroud, Daniel Svensson.
 - **Mediocampistas de Suecia:** Yasin Ayari, Lucas Bergvall, Jesper Karlstrom, Benjamin Nygren, Ken Sema, Mattias Svanberg, Besfort Zeneli.
@@ -918,26 +1337,30 @@ Cada selección inscribió 26 jugadores. Se listan por grupo, con el director t�
 - **Fase de grupos de Suecia:** 3.º del Grupo F con 4 puntos (1 victoria, 1 empate, 1 derrota; 7 goles a favor y 7 en contra). Resultados: Suecia 5-1 Túnez; Países Bajos 5-1 Suecia; Japón 1-1 Suecia.
 - **Eliminatorias de Suecia:** dieciseisavos de final: Francia 3-0 Suecia.
 - **Resultado final de Suecia:** Eliminación en dieciseisavos de final ante Francia.
+- **Goleadores de Suecia en el torneo:** Anthony Elanga (2), Yasin Ayari (2), Alexander Isak (1), Mattias Svanberg (1), Viktor Gyökeres (1).
 - **Nota:** Dejan Kulusevski quedó fuera de la lista por lesión.
 
 #### Selección de Túnez (Grupo F)
 
 - **Director técnico de Túnez:** Sabri Lamouchi (primer partido) y Hervé Renard (desde el 16 de junio).
 - **Confederación:** CAF.
+- **Capitán de Túnez:** Ellyes Skhiri.
 - **Porteros de Túnez:** Sabri Ben Hessen, Abdelmouhib Chamakh, Aymen Dahman.
 - **Defensas de Túnez:** Ali Abdi, Adem Arous, Mohamed Amine Ben Hamida, Dylan Bronn, Raed Chikhaoui, Moutaz Neffati, Omar Rekik, Montassar Talbi, Yan Valery.
 - **Mediocampistas de Túnez:** Mortadha Ben Ouanes, Anis Ben Slimane, Ismael Gharbi, Rani Khedira, Mohamed Hadj Mahmoud, Hannibal Mejbri, Ellyes Skhiri.
 - **Delanteros de Túnez:** Elias Achouri, Khalil Ayari, Firas Chaouat, Rayan Elloumi, Hazem Mastouri, Elias Saad, Sebastian Tounekti.
 - **Fase de grupos de Túnez:** 4.º del Grupo F con 0 puntos (0 victorias, 0 empates, 3 derrotas; 2 goles a favor y 12 en contra). Resultados: Suecia 5-1 Túnez; Túnez 0-4 Japón; Túnez 1-3 Países Bajos.
 - **Resultado final de Túnez:** Eliminación en la fase de grupos.
+- **Goleadores de Túnez en el torneo:** Hazem Mastouri (1), Omar Rekik (1).
 - **Nota:** Sabri Lamouchi fue destituido tras perder 5-1 con Suecia en el debut: es el primer entrenador de la historia despedido después de un solo partido de un Mundial. Hervé Renard asumió hasta el final del torneo.
 
-### 13.7 Convocatorias del Grupo G
+### 14.7 Convocatorias del Grupo G
 
 #### Selección de Bélgica (Grupo G)
 
 - **Director técnico de Bélgica:** Rudi Garcia.
 - **Confederación:** UEFA.
+- **Capitán de Bélgica:** Youri Tielemans.
 - **Porteros de Bélgica:** Thibaut Courtois, Senne Lammens, Mike Penders.
 - **Defensas de Bélgica:** Timothy Castagne, Zeno Debast, Maxim De Cuyper, Koni De Winter, Brandon Mechele, Thomas Meunier, Nathan Ngoy, Joaquin Seys, Arthur Theate.
 - **Mediocampistas de Bélgica:** Kevin De Bruyne, Amadou Onana, Nicolas Raskin, Youri Tielemans, Hans Vanaken, Axel Witsel.
@@ -945,11 +1368,13 @@ Cada selección inscribió 26 jugadores. Se listan por grupo, con el director t�
 - **Fase de grupos de Bélgica:** 1.º del Grupo G con 5 puntos (1 victoria, 2 empates, 0 derrotas; 6 goles a favor y 2 en contra). Resultados: Bélgica 1-1 Egipto; Bélgica 0-0 Irán; Nueva Zelanda 1-5 Bélgica.
 - **Eliminatorias de Bélgica:** dieciseisavos de final: Bélgica 3-2 Senegal (tras prórroga); octavos de final: Estados Unidos 1-4 Bélgica; cuartos de final: España 2-1 Bélgica.
 - **Resultado final de Bélgica:** Eliminación en cuartos de final ante España.
+- **Goleadores de Bélgica en el torneo:** Charles De Ketelaere (3), Romelu Lukaku (3), Leandro Trossard (2), Youri Tielemans (2), Alexis Saelemaekers (1), Hans Vanaken (1), Kevin De Bruyne (1).
 
 #### Selección de Egipto (Grupo G)
 
 - **Director técnico de Egipto:** Hossam Hassan.
 - **Confederación:** CAF.
+- **Capitán de Egipto:** Mohamed Salah.
 - **Porteros de Egipto:** Mohamed El Shenawy, Mostafa Shobeir, El Mahdy Soliman, Mohamed Alaa.
 - **Defensas de Egipto:** Mohamed Abdelmonem, Mohamed Hany, Yasser Ibrahim, Hossam Abdelmaguid, Ahmed Fattouh, Tarek Alaa, Rami Rabia, Karim Hafez.
 - **Mediocampistas de Egipto:** Marwan Attia, Ahmed Sayed 'Zizo', Mahmoud Hassan 'Trezeguet', Emam Ashour, Mostafa Abdel Raouf 'Ziko', Mohannad Lasheen, Haitham Hassan, Mahmoud Saber, Ibrahim Adel, Nabil Emad, Hamdi Fathi.
@@ -957,38 +1382,44 @@ Cada selección inscribió 26 jugadores. Se listan por grupo, con el director t�
 - **Fase de grupos de Egipto:** 2.º del Grupo G con 5 puntos (1 victoria, 2 empates, 0 derrotas; 5 goles a favor y 3 en contra). Resultados: Bélgica 1-1 Egipto; Nueva Zelanda 1-3 Egipto; Egipto 1-1 Irán.
 - **Eliminatorias de Egipto:** dieciseisavos de final: Australia 1-1 Egipto (tras prórroga; 2-4 en penales); octavos de final: Argentina 3-2 Egipto.
 - **Resultado final de Egipto:** Eliminación en octavos de final ante Argentina.
+- **Goleadores de Egipto en el torneo:** Emam Ashour (2), Mostafa 'Ziko' Abdel Raouf (2), Mahmoud Saber (1), Mohamed Salah (1), Trézéguet (Mahmoud Hassan) (1), Yasser Ibrahim (1).
 - **Nota:** Convocó cuatro porteros.
 
 #### Selección de Irán (Grupo G)
 
 - **Director técnico de Irán:** Amir Ghalenoei.
 - **Confederación:** AFC.
+- **Capitán de Irán:** Mehdi Taremi.
 - **Porteros de Irán:** Alireza Beiranvand, Seyed Hossein Hosseini, Payam Niazmand.
 - **Defensas de Irán:** Danial Eiri, Ehsan Hajsafi, Saleh Hardani, Hossein Kanaani, Shoja Khalilzadeh, Milad Mohammadi, Ali Nemati, Ramin Rezaeian.
 - **Mediocampistas de Irán:** Rouzbeh Cheshmi, Saeid Ezatolahi, Mehdi Ghaedi, Saman Ghoddos, Mohammad Ghorbani, Alireza Jahanbakhsh, Mohammad Mohebi, Amir Mohammad Razzaghinia, Mehdi Torabi, Aria Yousefi.
 - **Delanteros de Irán:** Ali Alipour, Dennis Dargahi, Amirhossein Hosseinzadeh, Mehdi Taremi, Shahriar Moghanlou.
 - **Fase de grupos de Irán:** 3.º del Grupo G con 3 puntos (0 victorias, 3 empates, 0 derrotas; 3 goles a favor y 3 en contra). Resultados: Irán 2-2 Nueva Zelanda; Bélgica 0-0 Irán; Egipto 1-1 Irán.
 - **Resultado final de Irán:** Eliminación en la fase de grupos.
+- **Goleadores de Irán en el torneo:** Ramin Rezaeian (2), Mohammad Mohebi (1).
 - **Nota:** Quedó eliminado sin perder ningún partido (tres empates).
 
 #### Selección de Nueva Zelanda (Grupo G)
 
 - **Director técnico de Nueva Zelanda:** Darren Bazeley.
 - **Confederación:** OFC.
+- **Capitán de Nueva Zelanda:** Chris Wood.
 - **Porteros de Nueva Zelanda:** Max Crocombe, Alex Paulsen, Michael Woud.
 - **Defensas de Nueva Zelanda:** Tyler Bindon, Michael Boxall, Liberato Cacace, Francis de Vries, Callan Elliot, Tim Payne, Nando Pijnaker, Tommy Smith, Finn Surman.
 - **Mediocampistas de Nueva Zelanda:** Lachlan Bayliss, Joe Bell, Matt Garbett, Eli Just, Callum McCowatt, Ben Old, Alex Rufer, Marko Stamenic, Sarpreet Singh, Ryan Thomas.
 - **Delanteros de Nueva Zelanda:** Kosta Barbarouses, Jesse Randall, Ben Waine, Chris Wood.
 - **Fase de grupos de Nueva Zelanda:** 4.º del Grupo G con 1 puntos (0 victorias, 1 empate, 2 derrotas; 4 goles a favor y 10 en contra). Resultados: Irán 2-2 Nueva Zelanda; Nueva Zelanda 1-3 Egipto; Nueva Zelanda 1-5 Bélgica.
 - **Resultado final de Nueva Zelanda:** Eliminación en la fase de grupos.
+- **Goleadores de Nueva Zelanda en el torneo:** Elijah (Eli) Just (3), Finn Surman (1).
 - **Nota:** Único representante de Oceanía.
 
-### 13.8 Convocatorias del Grupo H
+### 14.8 Convocatorias del Grupo H
 
 #### Selección de España (Grupo H)
 
 - **Director técnico de España:** Luis de la Fuente.
 - **Confederación:** UEFA.
+- **Capitán de España:** Rodri.
 - **Porteros de España:** Unai Simon, David Raya, Joan Garcia.
 - **Defensas de España:** Marc Cucurella, Pau Cubarsi, Aymeric Laporte, Alejandro Grimaldo, Pedro Porro, Eric Garcia, Marcos Llorente, Marc Pubill.
 - **Mediocampistas de España:** Gavi, Rodri, Pedri, Martin Zubimendi, Fabian Ruiz, Alex Baena, Mikel Merino.
@@ -996,12 +1427,14 @@ Cada selección inscribió 26 jugadores. Se listan por grupo, con el director t�
 - **Fase de grupos de España:** 1.º del Grupo H con 7 puntos (2 victorias, 1 empate, 0 derrotas; 5 goles a favor y 0 en contra). Resultados: España 0-0 Cabo Verde; España 4-0 Arabia Saudita; Uruguay 0-1 España.
 - **Eliminatorias de España:** dieciseisavos de final: España 3-0 Austria; octavos de final: Portugal 0-1 España; cuartos de final: España 2-1 Bélgica; semifinales: Francia 0-2 España; final: España 1-0 Argentina (tras prórroga).
 - **Resultado final de España:** CAMPEÓN DEL MUNDO.
+- **Goleadores de España en el torneo:** Mikel Oyarzabal (5), Mikel Merino (2), Pedro Porro (2), Fabián Ruiz (1), Ferran Torres (1), Lamine Yamal (1), Álex Baena (1).
 - **Nota:** CAMPEÓN DEL MUNDO 2026. Rodri, quien levantó el trofeo, ganó el Balón de Oro, Unai Simon el Guante de Oro y Pau Cubarsi el premio al Mejor Jugador Joven.
 
 #### Selección de Cabo Verde (Grupo H)
 
 - **Director técnico de Cabo Verde:** Bubista.
 - **Confederación:** CAF.
+- **Capitán de Cabo Verde:** Ryan Mendes.
 - **Porteros de Cabo Verde:** CJ dos Santos, Marcio Rosa, Vozinha.
 - **Defensas de Cabo Verde:** Sidny Cabral, Diney Borges, Logan Costa, Roberto 'Pico' Lopes, Steven Moreira, Wagner Pina, Kelvin Pires, Joao Paulo Fernandes, Ianique 'Stopira' Tavares.
 - **Mediocampistas de Cabo Verde:** Telmo Arcanjo, Deroy Duarte, Laros Duarte, Jamiro Monteiro, Kevin Pina, Yannick Semedo.
@@ -1009,37 +1442,43 @@ Cada selección inscribió 26 jugadores. Se listan por grupo, con el director t�
 - **Fase de grupos de Cabo Verde:** 2.º del Grupo H con 3 puntos (0 victorias, 3 empates, 0 derrotas; 2 goles a favor y 2 en contra). Resultados: España 0-0 Cabo Verde; Uruguay 2-2 Cabo Verde; Cabo Verde 0-0 Arabia Saudita.
 - **Eliminatorias de Cabo Verde:** dieciseisavos de final: Argentina 3-2 Cabo Verde.
 - **Resultado final de Cabo Verde:** Eliminación en dieciseisavos de final ante Argentina.
+- **Goleadores de Cabo Verde en el torneo:** Deroy Duarte (1), Hélio Varela (1), Kevin Pina (1), Sidny Cabral (1).
 - **Nota:** Debutante. Fue la única de las cuatro selecciones debutantes que superó la fase de grupos.
 
 #### Selección de Uruguay (Grupo H)
 
 - **Director técnico de Uruguay:** Marcelo Bielsa.
 - **Confederación:** CONMEBOL.
+- **Capitán de Uruguay:** José María Giménez.
 - **Porteros de Uruguay:** Sergio Rochet, Fernando Muslera, Santiago Mele.
 - **Defensas de Uruguay:** Guillermo Varela, Ronald Araujo, Jose Maria Gimenez, Santiago Bueno, Sebastian Caceres, Mathias Olivera, Joaquin Piquerez, Matias Vina.
 - **Mediocampistas de Uruguay:** Maximiliano Araujo, Giorgian de Arrascaeta, Rodrigo Bentancur, Agustin Canobbio, Nicolas de la Cruz, Emiliano Martinez, Facundo Pellistri, Brian Rodriguez, Juan Manuel Sanabria, Manuel Ugarte, Federico Valverde, Rodrigo Zalazar.
 - **Delanteros de Uruguay:** Rodrigo Aguirre, Federico Vinas, Darwin Nunez.
 - **Fase de grupos de Uruguay:** 3.º del Grupo H con 2 puntos (0 victorias, 2 empates, 1 derrota; 3 goles a favor y 4 en contra). Resultados: Arabia Saudita 1-1 Uruguay; Uruguay 2-2 Cabo Verde; Uruguay 0-1 España.
 - **Resultado final de Uruguay:** Eliminación en la fase de grupos.
+- **Goleadores de Uruguay en el torneo:** Maximiliano Araújo (2), Agustín Canobbio (1).
 - **Nota:** Eliminado en fase de grupos sin ganar ningún partido.
 
 #### Selección de Arabia Saudita (Grupo H)
 
 - **Director técnico de Arabia Saudita:** Georgios Donis.
 - **Confederación:** AFC.
+- **Capitán de Arabia Saudita:** Salem Al Dawsari.
 - **Porteros de Arabia Saudita:** Nawaf Al Aqidi, Mohamed Al Owais, Ahmed Alkassar.
 - **Defensas de Arabia Saudita:** Saud Abdulhamid, Jehad Thakri, Abdulelah Al Amri, Hassan Tambakti, Ali Lajami, Hassan Kadesh, Moteb Al Harbi, Nawaf Boushal, Ali Majrashi, Mohammed Abu Alshamat.
 - **Mediocampistas de Arabia Saudita:** Ziyad Al Johani, Nasser Al Dawsari, Mohamed Kanno, Abdullah Al Khaibari, Alaa Al Hejji, Musab Al Juwayr, Sultan Mandash, Ayman Yahya, Khalid Al Ghannam.
 - **Delanteros de Arabia Saudita:** Salem Al Dawsari, Abdullah Al Hamdan, Feras Al Brikan, Saleh Al Shehri.
 - **Fase de grupos de Arabia Saudita:** 4.º del Grupo H con 2 puntos (0 victorias, 2 empates, 1 derrota; 1 goles a favor y 5 en contra). Resultados: Arabia Saudita 1-1 Uruguay; España 4-0 Arabia Saudita; Cabo Verde 0-0 Arabia Saudita.
 - **Resultado final de Arabia Saudita:** Eliminación en la fase de grupos.
+- **Goleadores de Arabia Saudita en el torneo:** Abdulelah Al Amri (1).
 
-### 13.9 Convocatorias del Grupo I
+### 14.9 Convocatorias del Grupo I
 
 #### Selección de Francia (Grupo I)
 
 - **Director técnico de Francia:** Didier Deschamps.
 - **Confederación:** UEFA.
+- **Capitán de Francia:** Kylian Mbappé.
 - **Porteros de Francia:** Mike Maignan, Robin Risser, Brice Samba.
 - **Defensas de Francia:** Lucas Digne, Malo Gusto, Lucas Hernandez, Theo Hernandez, Ibrahima Konate, Maxence Lacroix, Jules Kounde, William Saliba, Dayot Upamecano.
 - **Mediocampistas de Francia:** N'Golo Kante, Manu Kone, Adrien Rabiot, Aurelien Tchouameni, Warren Zaire-Emery.
@@ -1047,12 +1486,14 @@ Cada selección inscribió 26 jugadores. Se listan por grupo, con el director t�
 - **Fase de grupos de Francia:** 1.º del Grupo I con 9 puntos (3 victorias, 0 empates, 0 derrotas; 10 goles a favor y 2 en contra). Resultados: Francia 3-1 Senegal; Francia 3-0 Irak; Noruega 1-4 Francia.
 - **Eliminatorias de Francia:** dieciseisavos de final: Francia 3-0 Suecia; octavos de final: Paraguay 0-1 Francia; cuartos de final: Francia 2-0 Marruecos; semifinales: Francia 0-2 España; partido por el tercer puesto: Francia 4-6 Inglaterra.
 - **Resultado final de Francia:** Cuarto lugar.
+- **Goleadores de Francia en el torneo:** Kylian Mbappé (10), Ousmane Dembélé (6), Bradley Barcola (3), Désiré Doué (1).
 - **Nota:** Kylian Mbappe ganó la Bota de Oro (10 goles). El partido por el tercer puesto fue el número 187 y último de Didier Deschamps al frente de Francia, tras 14 años en el cargo.
 
 #### Selección de Noruega (Grupo I)
 
 - **Director técnico de Noruega:** Ståle Solbakken.
 - **Confederación:** UEFA.
+- **Capitán de Noruega:** Martin Ødegaard.
 - **Porteros de Noruega:** Orjan Haskjold Nyland, Egil Selvik, Sander Tangvik.
 - **Defensas de Noruega:** Kristoffer Vassbakk Ajer, Fredrik Bjorkan, Henrik Falchener, Sondre Langas, Torbjorn Heggem, Marcus Holmgren Pedersen, Julian Ryerson, David Moller Wolfe, Leo Ostigard.
 - **Mediocampistas de Noruega:** Thelonious Aasgaard, Fredrik Aursnes, Patrick Berg, Sander Berge, Oscar Bobb, Jens Petter Hauge, Antonio Nusa, Andreas Schjelderup, Morten Thorsby, Kristian Thorstvedt, Martin Odegaard.
@@ -1060,12 +1501,14 @@ Cada selección inscribió 26 jugadores. Se listan por grupo, con el director t�
 - **Fase de grupos de Noruega:** 2.º del Grupo I con 6 puntos (2 victorias, 0 empates, 1 derrota; 8 goles a favor y 7 en contra). Resultados: Irak 1-4 Noruega; Noruega 3-2 Senegal; Noruega 1-4 Francia.
 - **Eliminatorias de Noruega:** dieciseisavos de final: Costa de Marfil 1-2 Noruega; octavos de final: Brasil 1-2 Noruega; cuartos de final: Noruega 1-2 Inglaterra (tras prórroga).
 - **Resultado final de Noruega:** Eliminación en cuartos de final ante Inglaterra.
+- **Goleadores de Noruega en el torneo:** Erling Haaland (7), Andreas Schjelderup (1), Antonio Nusa (1), Leo Østigård (1), Marcus Holmgren Pedersen (1), Thelo Aasgaard (1).
 - **Nota:** Regresó a un Mundial por primera vez desde 1998 y alcanzó los cuartos de final por primera vez en su historia. Erling Haaland marcó 7 goles en 5 partidos.
 
 #### Selección de Senegal (Grupo I)
 
 - **Director técnico de Senegal:** Pape Thiaw.
 - **Confederación:** CAF.
+- **Capitán de Senegal:** Kalidou Koulibaly.
 - **Porteros de Senegal:** Edouard Mendy, Mory Diaw, Yehvann Diouf.
 - **Defensas de Senegal:** Krepin Diatta, Antoine Mendy, Kalidou Koulibaly, El Hadji Malick Diouf, Mamadou Sarr, Moussa Niakhate, Abdoulaye Seck, Ismail Jakobs.
 - **Mediocampistas de Senegal:** Idrissa Gana Gueye, Pape Gueye, Lamine Camara, Habib Diarra, Pathe Ciss, Pape Matar Sarr, Bara Sapoko Ndiaye.
@@ -1073,38 +1516,44 @@ Cada selección inscribió 26 jugadores. Se listan por grupo, con el director t�
 - **Fase de grupos de Senegal:** 3.º del Grupo I con 3 puntos (1 victoria, 0 empates, 2 derrotas; 8 goles a favor y 6 en contra). Resultados: Francia 3-1 Senegal; Noruega 3-2 Senegal; Senegal 5-0 Irak.
 - **Eliminatorias de Senegal:** dieciseisavos de final: Bélgica 3-2 Senegal (tras prórroga).
 - **Resultado final de Senegal:** Eliminación en dieciseisavos de final ante Bélgica.
+- **Goleadores de Senegal en el torneo:** Ismaïla Sarr (4), Habib Diarra (2), Pape Gueye (2), Ibrahim Mbaye (1), Iliman Ndiaye (1).
 
 #### Selección de Irak (Grupo I)
 
 - **Director técnico de Irak:** Graham Arnold.
 - **Confederación:** AFC (repechaje intercontinental).
+- **Capitán de Irak:** Jalal Hassan.
 - **Porteros de Irak:** Fahad Talib, Jalal Hassan, Ahmed Basil.
 - **Defensas de Irak:** Hussein Ali, Manaf Younis, Zaid Tahseen, Rebin Sulaka, Akam Hashem, Merchas Doski, Ahmed Yahya, Zaid Ismail, Frans Putros, Mustafa Saadoon.
 - **Mediocampistas de Irak:** Amir Al Ammari, Kevin Yakob, Zidane Iqbal, Aimar Sher, Ibrahim Bayesh, Ahmed Qasim, Youssef Amyn, Marko Farji.
 - **Delanteros de Irak:** Ali Jassim, Ali Al Hamadi, Ali Yousef, Aymen Hussein, Mohanad Ali.
 - **Fase de grupos de Irak:** 4.º del Grupo I con 0 puntos (0 victorias, 0 empates, 3 derrotas; 1 goles a favor y 12 en contra). Resultados: Irak 1-4 Noruega; Francia 3-0 Irak; Senegal 5-0 Irak.
 - **Resultado final de Irak:** Eliminación en la fase de grupos.
+- **Goleadores de Irak en el torneo:** Aymen Hussein (1).
 - **Nota:** Regresó a un Mundial por primera vez desde 1986.
 
-### 13.10 Convocatorias del Grupo J
+### 14.10 Convocatorias del Grupo J
 
 #### Selección de Argentina (Grupo J)
 
 - **Director técnico de Argentina:** Lionel Scaloni.
 - **Confederación:** CONMEBOL.
+- **Capitán de Argentina:** Lionel Messi.
 - **Porteros de Argentina:** Emiliano Martinez, Geronimo Rulli, Juan Musso.
-- **Defensas de Argentina:** Leonardo Balerdi, Gonzalo Montiel, Nicolas Tagliafico, Lisandro Martinez, Cristian Romero, Nicolas Otamendi, Facundo Medina, Nahuel Molina.
+- **Defensas de Argentina:** Gonzalo Montiel, Nicolas Tagliafico, Lisandro Martinez, Cristian Romero, Nicolas Otamendi, Facundo Medina, Nahuel Molina, Marcos Senesi.
 - **Mediocampistas de Argentina:** Leandro Paredes, Rodrigo De Paul, Valentin Barco, Giovani Lo Celso, Exequiel Palacios, Alexis Mac Allister, Enzo Fernandez.
 - **Delanteros de Argentina:** Julian Alvarez, Lionel Messi, Nicolas Gonzalez, Thiago Almada, Giuliano Simeone, Nicolas Paz, Jose Manuel Lopez, Lautaro Martinez.
 - **Fase de grupos de Argentina:** 1.º del Grupo J con 9 puntos (3 victorias, 0 empates, 0 derrotas; 8 goles a favor y 1 en contra). Resultados: Argentina 3-0 Argelia; Argentina 2-0 Austria; Jordania 1-3 Argentina.
 - **Eliminatorias de Argentina:** dieciseisavos de final: Argentina 3-2 Cabo Verde; octavos de final: Argentina 3-2 Egipto; cuartos de final: Argentina 3-1 Suiza (tras prórroga); semifinales: Inglaterra 1-2 Argentina; final: España 1-0 Argentina (tras prórroga).
 - **Resultado final de Argentina:** Subcampeón (perdió la final).
-- **Nota:** SUBCAMPEÓN. Llegó como campeón defensor (Catar 2022). Lionel Messi marcó 8 goles y fue el segundo máximo goleador.
+- **Goleadores de Argentina en el torneo:** Lionel Messi (8), Lautaro Martínez (3), Enzo Fernández (2), Alexis Mac Allister (1), Cristian Romero (1), Giovani Lo Celso (1), Julián Álvarez (1), Lisandro Martínez (1).
+- **Nota:** SUBCAMPEÓN. Llegó como campeón defensor (Catar 2022). Lionel Messi marcó 8 goles y fue el segundo máximo goleador. Leonardo Balerdi estaba en la lista inicial, pero se lesionó y fue reemplazado por Marcos Senesi el 11 de junio de 2026.
 
 #### Selección de Austria (Grupo J)
 
 - **Director técnico de Austria:** Ralf Rangnick.
 - **Confederación:** UEFA.
+- **Capitán de Austria:** David Alaba.
 - **Porteros de Austria:** Patrick Pentz, Alexander Schlager, Florian Wiegele.
 - **Defensas de Austria:** David Affengruber, David Alaba, Kevin Danso, Marco Friedl, Philipp Lienhart, Phillipp Mwene, Stefan Posch, Alexander Prass, Michael Svoboda.
 - **Mediocampistas de Austria:** Christoph Baumgartner, Carney Chukwuemeka, Florian Grillitsch, Konrad Laimer, Marcel Sabitzer, Xaver Schlager, Romano Schmid, Alessandro Schopf, Nicolas Seiwald, Paul Wanner, Patrick Wimmer.
@@ -1112,12 +1561,14 @@ Cada selección inscribió 26 jugadores. Se listan por grupo, con el director t�
 - **Fase de grupos de Austria:** 2.º del Grupo J con 4 puntos (1 victoria, 1 empate, 1 derrota; 6 goles a favor y 6 en contra). Resultados: Austria 3-1 Jordania; Argentina 2-0 Austria; Argelia 3-3 Austria.
 - **Eliminatorias de Austria:** dieciseisavos de final: España 3-0 Austria.
 - **Resultado final de Austria:** Eliminación en dieciseisavos de final ante España.
+- **Goleadores de Austria en el torneo:** Marko Arnautović (2), Marcel Sabitzer (1), Romano Schmid (1), Saša Kalajdžić (1).
 - **Nota:** Regresó a un Mundial por primera vez desde 1998.
 
 #### Selección de Argelia (Grupo J)
 
 - **Director técnico de Argelia:** Vladimir Petković.
 - **Confederación:** CAF.
+- **Capitán de Argelia:** Riyad Mahrez.
 - **Porteros de Argelia:** Oussama Benbot, Melvin Masstil, Luca Zidane.
 - **Defensas de Argelia:** Achraf Abada, Rayan Ait Nouri, Zinedine Belaid, Rafik Belghali, Ramy Bensebaini, Samir Chergui, Jaouen Hadjam, Aissa Mandi, Mohamed Amine Tougai.
 - **Mediocampistas de Argelia:** Houssem Aouar, Nabil Bentaleb, Hicham Boudaoui, Fares Chaibi, Ibrahim Maza, Yassine Titraoui, Ramiz Zerrouki.
@@ -1125,25 +1576,29 @@ Cada selección inscribió 26 jugadores. Se listan por grupo, con el director t�
 - **Fase de grupos de Argelia:** 3.º del Grupo J con 4 puntos (1 victoria, 1 empate, 1 derrota; 5 goles a favor y 7 en contra). Resultados: Argentina 3-0 Argelia; Jordania 1-2 Argelia; Argelia 3-3 Austria.
 - **Eliminatorias de Argelia:** dieciseisavos de final: Suiza 2-0 Argelia.
 - **Resultado final de Argelia:** Eliminación en dieciseisavos de final ante Suiza.
+- **Goleadores de Argelia en el torneo:** Riyad Mahrez (2), Amine Gouiri (1), Nadhir Benbouali (1), Rafik Belghali (1).
 
 #### Selección de Jordania (Grupo J)
 
 - **Director técnico de Jordania:** Jamal Sellami.
 - **Confederación:** AFC.
+- **Capitán de Jordania:** Ehsan Haddad.
 - **Porteros de Jordania:** Yazid Abulaila, Noor Bani Attiah, Abdallah Al Fakhouri.
 - **Defensas de Jordania:** Mohammad Abu Hashish, Abdullah Nasib, Hussam Abu Dhahab, Yazan Al Arab, Mohammad Abu Alnadi, Salem Obaid, Saed Al Rosan, Ehsan Haddad, Anas Badawi.
 - **Mediocampistas de Jordania:** Amer Jamous, Noor Al Rawabdeh, Rajaei Ayed, Ibrahim Sadeh, Mohannad Abu Taha, Nizar Al Rashdan, Mohammad Al Dawoud, Mahmoud Mardahi.
 - **Delanteros de Jordania:** Mohammad Abu Zraiq, Ali Olwan, Mousa Al Tamari, Odeh Fakhoury, Ibrahim Sabra, Ali Azaizeh.
 - **Fase de grupos de Jordania:** 4.º del Grupo J con 0 puntos (0 victorias, 0 empates, 3 derrotas; 3 goles a favor y 8 en contra). Resultados: Austria 3-1 Jordania; Jordania 1-2 Argelia; Jordania 1-3 Argentina.
 - **Resultado final de Jordania:** Eliminación en la fase de grupos.
+- **Goleadores de Jordania en el torneo:** Ali Olwan (1), Mousa Al Tamari (1), Nizar Al Rashdan (1).
 - **Nota:** Debutante.
 
-### 13.11 Convocatorias del Grupo K
+### 14.11 Convocatorias del Grupo K
 
 #### Selección de Colombia (Grupo K)
 
 - **Director técnico de Colombia:** Néstor Lorenzo.
 - **Confederación:** CONMEBOL.
+- **Capitán de Colombia:** James Rodríguez.
 - **Porteros de Colombia:** Camilo Vargas, Alvaro Montero, David Ospina.
 - **Defensas de Colombia:** Davinson Sanchez, Jhon Lucumi, Yerry Mina, Willer Ditta, Daniel Munoz, Santiago Arias, Johan Mojica, Deiver Machado.
 - **Mediocampistas de Colombia:** Richard Rios, Jefferson Lerma, Kevin Castano, Juan Camilo Portilla, Gustavo Puerta, Jhon Arias, Jorge Carrascal, Juan Fernando Quintero, James Rodriguez, Jaminton Campaz.
@@ -1151,12 +1606,14 @@ Cada selección inscribió 26 jugadores. Se listan por grupo, con el director t�
 - **Fase de grupos de Colombia:** 1.º del Grupo K con 7 puntos (2 victorias, 1 empate, 0 derrotas; 4 goles a favor y 1 en contra). Resultados: Uzbekistán 1-3 Colombia; Colombia 1-0 RD Congo; Colombia 0-0 Portugal.
 - **Eliminatorias de Colombia:** dieciseisavos de final: Colombia 1-0 Ghana; octavos de final: Suiza 0-0 Colombia (tras prórroga; 4-3 en penales).
 - **Resultado final de Colombia:** Eliminación en octavos de final ante Suiza.
-- **Nota:** Ganó el Grupo K invicto y con un solo gol en contra. En la fase de grupos marcaron Daniel Munoz (2 goles), Luis Diaz y Jaminton Campaz.
+- **Goleadores de Colombia en el torneo:** Daniel Muñoz (2), Jaminton Campaz (1), Jhon Arias (1), Luis Díaz (1).
+- **Nota:** Ganó el Grupo K invicto y con un solo gol en contra. En la fase de grupos marcaron Daniel Munoz (2 goles), Luis Diaz y Jaminton Campaz. En dieciseisavos marcó Jhon Arias.
 
 #### Selección de Portugal (Grupo K)
 
 - **Director técnico de Portugal:** Roberto Martínez.
 - **Confederación:** UEFA.
+- **Capitán de Portugal:** Cristiano Ronaldo.
 - **Porteros de Portugal:** Diogo Costa, Jose Sa, Rui Silva.
 - **Defensas de Portugal:** Tomas Araujo, Joao Cancelo, Diogo Dalot, Ruben Dias, Goncalo Inacio, Nuno Mendes, Matheus Nunes, Nelson Semedo, Renato Veiga.
 - **Mediocampistas de Portugal:** Samuel Costa, Bruno Fernandes, Joao Neves, Ruben Neves, Bernardo Silva, Vitinha.
@@ -1164,12 +1621,14 @@ Cada selección inscribió 26 jugadores. Se listan por grupo, con el director t�
 - **Fase de grupos de Portugal:** 2.º del Grupo K con 5 puntos (1 victoria, 2 empates, 0 derrotas; 6 goles a favor y 1 en contra). Resultados: Portugal 1-1 RD Congo; Portugal 5-0 Uzbekistán; Colombia 0-0 Portugal.
 - **Eliminatorias de Portugal:** dieciseisavos de final: Portugal 2-1 Croacia; octavos de final: Portugal 0-1 España.
 - **Resultado final de Portugal:** Eliminación en octavos de final ante España.
+- **Goleadores de Portugal en el torneo:** Cristiano Ronaldo (3), Gonçalo Ramos (1), João Neves (1), Nuno Mendes (1), Rafael Leão (1).
 - **Nota:** Sexto Mundial de Cristiano Ronaldo (récord compartido con Lionel Messi).
 
 #### Selección de RD Congo (Grupo K)
 
 - **Director técnico de RD Congo:** Sébastien Desabre.
 - **Confederación:** CAF (repechaje intercontinental).
+- **Capitán de RD Congo:** Chancel Mbemba.
 - **Porteros de RD Congo:** Matthieu Epolo, Timothy Fayulu, Lionel Mpasi.
 - **Defensas de RD Congo:** Dylan Batubinsika, Gedeon Kalulu, Steve Kapuadi, Joris Kayembe, Arthur Masuaku, Chancel Mbemba, Axel Tuanzebe, Aaron Wan-Bissaka.
 - **Mediocampistas de RD Congo:** Brian Cipenga, Meshack Elia, Gael Kakuta, Edo Kayembe, Nathanael Mbuku, Samuel Moutoussamy, Ngal'ayel Mukau, Charles Pickel, Noah Sadiki, Aaron Tshibola.
@@ -1177,26 +1636,30 @@ Cada selección inscribió 26 jugadores. Se listan por grupo, con el director t�
 - **Fase de grupos de RD Congo:** 3.º del Grupo K con 4 puntos (1 victoria, 1 empate, 1 derrota; 4 goles a favor y 3 en contra). Resultados: Portugal 1-1 RD Congo; Colombia 1-0 RD Congo; RD Congo 3-1 Uzbekistán.
 - **Eliminatorias de RD Congo:** dieciseisavos de final: Inglaterra 2-1 RD Congo.
 - **Resultado final de RD Congo:** Eliminación en dieciseisavos de final ante Inglaterra.
+- **Goleadores de RD Congo en el torneo:** Yoane Wissa (3), Brian Cipenga (1), Fiston Mayele (1).
 - **Nota:** Regresó a un Mundial tras 52 años (en 1974 participó como Zaire). Fue el mejor tercero de la fase de grupos.
 
 #### Selección de Uzbekistán (Grupo K)
 
 - **Director técnico de Uzbekistán:** Fabio Cannavaro.
 - **Confederación:** AFC.
+- **Capitán de Uzbekistán:** Eldor Shomurodov.
 - **Porteros de Uzbekistán:** Botirali Ergashev, Abduvohid Nematov, Utkir Yusupov.
 - **Defensas de Uzbekistán:** Abdukodir Khusanov, Khojiakbar Alijonov, Rustamjon Ashurmatov, Farrukh Sayfiev, Sherzod Nasrullaev, Umarbek Eshmuradov, Avazbek Ulmasaliev, Jakhongir Urozov, Bekhruz Karimov, Abdulla Abdullaev.
 - **Mediocampistas de Uzbekistán:** Akmal Mozgovoy, Otabek Shukurov, Jamshid Iskanderov, Odiljon Hamrobekov, Jaloliddin Masharipov, Azizbek Ganiev, Sherzod Esanov, Abbosbek Fayzullaev.
 - **Delanteros de Uzbekistán:** Azizbek Amonov, Eldor Shomurodov, Igor Sergeev, Oston Urunov, Dostonbek Hamdamov.
 - **Fase de grupos de Uzbekistán:** 4.º del Grupo K con 0 puntos (0 victorias, 0 empates, 3 derrotas; 2 goles a favor y 11 en contra). Resultados: Uzbekistán 1-3 Colombia; Portugal 5-0 Uzbekistán; RD Congo 3-1 Uzbekistán.
 - **Resultado final de Uzbekistán:** Eliminación en la fase de grupos.
+- **Goleadores de Uzbekistán en el torneo:** Abbosbek Fayzullaev (1), Eldor Shomurodov (1).
 - **Nota:** Debutante.
 
-### 13.12 Convocatorias del Grupo L
+### 14.12 Convocatorias del Grupo L
 
 #### Selección de Inglaterra (Grupo L)
 
 - **Director técnico de Inglaterra:** Thomas Tuchel.
 - **Confederación:** UEFA.
+- **Capitán de Inglaterra:** Harry Kane.
 - **Porteros de Inglaterra:** Jordan Pickford, Dean Henderson, James Trafford.
 - **Defensas de Inglaterra:** Reece James, Ezri Konsa, Jarell Quansah, John Stones, Marc Guehi, Dan Burn, Nico O'Reilly, Djed Spence, Tino Livramento.
 - **Mediocampistas de Inglaterra:** Declan Rice, Elliot Anderson, Kobbie Mainoo, Jordan Henderson, Morgan Rogers, Jude Bellingham, Eberechi Eze.
@@ -1204,12 +1667,14 @@ Cada selección inscribió 26 jugadores. Se listan por grupo, con el director t�
 - **Fase de grupos de Inglaterra:** 1.º del Grupo L con 7 puntos (2 victorias, 1 empate, 0 derrotas; 6 goles a favor y 2 en contra). Resultados: Inglaterra 4-2 Croacia; Inglaterra 0-0 Ghana; Panamá 0-2 Inglaterra.
 - **Eliminatorias de Inglaterra:** dieciseisavos de final: Inglaterra 2-1 RD Congo; octavos de final: México 2-3 Inglaterra; cuartos de final: Noruega 1-2 Inglaterra (tras prórroga); semifinales: Inglaterra 1-2 Argentina; partido por el tercer puesto: Francia 4-6 Inglaterra.
 - **Resultado final de Inglaterra:** Tercer lugar.
+- **Goleadores de Inglaterra en el torneo:** Jude Bellingham (7), Harry Kane (6), Bukayo Saka (3), Anthony Gordon (1), Declan Rice (1), Ezri Konsa (1), Marcus Rashford (1).
 - **Nota:** TERCER LUGAR, su mejor resultado en un Mundial desde el título de 1966. Jude Bellingham marcó 7 goles (récord para un inglés en un solo Mundial) y Harry Kane 6.
 
 #### Selección de Croacia (Grupo L)
 
 - **Director técnico de Croacia:** Zlatko Dalić.
 - **Confederación:** UEFA.
+- **Capitán de Croacia:** Luka Modrić.
 - **Porteros de Croacia:** Dominik Livakovic, Dominik Kotarski, Ivor Pandur.
 - **Defensas de Croacia:** Josko Gvardiol, Duje Caleta-Car, Josip Sutalo, Josip Stanisic, Marin Pongracic, Martin Erlic, Luka Vuskovic.
 - **Mediocampistas de Croacia:** Luka Modric, Mateo Kovacic, Mario Pasalic, Nikola Vlasic, Luka Sucic, Martin Baturina, Kristijan Jakic, Petar Sucic, Nikola Moro, Toni Fruk.
@@ -1217,11 +1682,13 @@ Cada selección inscribió 26 jugadores. Se listan por grupo, con el director t�
 - **Fase de grupos de Croacia:** 2.º del Grupo L con 6 puntos (2 victorias, 0 empates, 1 derrota; 5 goles a favor y 5 en contra). Resultados: Inglaterra 4-2 Croacia; Panamá 0-1 Croacia; Croacia 2-1 Ghana.
 - **Eliminatorias de Croacia:** dieciseisavos de final: Portugal 2-1 Croacia.
 - **Resultado final de Croacia:** Eliminación en dieciseisavos de final ante Portugal.
+- **Goleadores de Croacia en el torneo:** Ante Budimir (1), Ivan Perišić (1), Martin Baturina (1), Nikola Vlašić (1), Petar Musa (1), Petar Sučić (1).
 
 #### Selección de Ghana (Grupo L)
 
 - **Director técnico de Ghana:** Carlos Queiroz.
 - **Confederación:** CAF.
+- **Capitán de Ghana:** Jordan Ayew.
 - **Porteros de Ghana:** Joseph Anang, Benjamin Asare, Lawrence Ati-Zigi.
 - **Defensas de Ghana:** Jonas Adjetey, Derrick Luckassen, Gideon Mensah, Abdul Mumin, Jerome Opoku, Kojo Oppong Preprah, Baba Abdul Rahman, Alidu Seidu, Marvin Senaya.
 - **Mediocampistas de Ghana:** Augustine Boakye, Abdul Fatawu Issahaku, Elisha Owusu, Thomas Partey, Kwasi Sibo, Kamal Deen Sulemana, Caleb Yirenkyi.
@@ -1229,24 +1696,27 @@ Cada selección inscribió 26 jugadores. Se listan por grupo, con el director t�
 - **Fase de grupos de Ghana:** 3.º del Grupo L con 4 puntos (1 victoria, 1 empate, 1 derrota; 2 goles a favor y 2 en contra). Resultados: Ghana 1-0 Panamá; Inglaterra 0-0 Ghana; Croacia 2-1 Ghana.
 - **Eliminatorias de Ghana:** dieciseisavos de final: Colombia 1-0 Ghana.
 - **Resultado final de Ghana:** Eliminación en dieciseisavos de final ante Colombia.
+- **Goleadores de Ghana en el torneo:** Caleb Yirenkyi (1), Derrick Luckassen (1).
 
 #### Selección de Panamá (Grupo L)
 
 - **Director técnico de Panamá:** Thomas Christiansen.
 - **Confederación:** CONCACAF.
+- **Capitán de Panamá:** Aníbal Godoy.
 - **Porteros de Panamá:** Orlando Mosquera, Luis Mejia, Cesar Samudio.
 - **Defensas de Panamá:** Cesar Blackman, Jorge Gutierrez, Amir Murillo, Fidel Escobar, Andres Andrade, Edgardo Farina, Jose Cordoba, Eric Davis, Jiovany Ramos, Roderick Miller.
 - **Mediocampistas de Panamá:** Anibal Godoy, Adalberto Carrasquilla, Carlos Harvey, Cristian Martinez, Jose Luis Rodriguez, Cesar Yanis, Yoel Barcenas, Alberto Quintero, Azarias Londono.
 - **Delanteros de Panamá:** Ismael Diaz, Cecilio Waterman, Jose Fajardo, Tomas Rodriguez.
 - **Fase de grupos de Panamá:** 4.º del Grupo L con 0 puntos (0 victorias, 0 empates, 3 derrotas; 0 goles a favor y 4 en contra). Resultados: Ghana 1-0 Panamá; Panamá 0-1 Croacia; Panamá 0-2 Inglaterra.
 - **Resultado final de Panamá:** Eliminación en la fase de grupos.
+- **Goleadores de Panamá en el torneo:** ninguno; no marcó goles.
 - **Nota:** Fue la única selección que no marcó goles en el torneo.
 
 **Fuentes de las convocatorias:** [Al Jazeera – listas de las 48 selecciones](https://www.aljazeera.com/sports/2026/6/2/fifa-world-cup-2026-full-squads-48-teams-players), [Wikipedia – 2026 FIFA World Cup squads](https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads), [CP24 – lista de Canadá](https://www.cp24.com/local/toronto/2026/05/29/canada-unveils-fifa-world-cup-roster-heres-the-full-list/), [Flashscore – lista de Suecia](https://www.flashscore.com/news/soccer-world-cup-graham-potter-names-26-man-sweden-squad-for-the-world-cup/OjiHKnrg/) y [The Stats Zone – entrenadores](https://www.thestatszone.com/fifa-world-cup-2026-head-coach-tracker-204481).
 
 ---
 
-## 14. Identidad, símbolos y contexto
+## 15. Identidad, símbolos y contexto
 
 - **Balón:** Adidas Trionda. El nombre combina "tri" (tres) y "onda"; usa rojo, verde y azul por los tres anfitriones e incluye una hoja de arce, un águila y una estrella.
 - **Mascotas:** Maple (alce, Canadá), Zayu (jaguar, México) y Clutch (águila calva, Estados Unidos), presentadas el 25 de septiembre de 2025.
@@ -1258,7 +1728,7 @@ Cada selección inscribió 26 jugadores. Se listan por grupo, con el director t�
 
 ---
 
-## 15. Preguntas frecuentes
+## 16. Preguntas frecuentes
 
 **¿Quién ganó el Mundial 2026?**  
 España, que venció 1-0 a Argentina en la prórroga de la final el 19 de julio de 2026.
@@ -1302,9 +1772,27 @@ Ambos disputaron en 2026 su sexto Mundial. Messi fue subcampeón con Argentina; 
 **¿Cuándo y dónde es el próximo Mundial?**  
 En 2030, en Marruecos, España y Portugal, con partidos del centenario en Uruguay, Argentina y Paraguay.
 
+**¿Cuántos goles hizo Ferran Torres en el Mundial 2026?**  
+Uno: el gol del título en la final ante Argentina, al minuto 106.
+
+**¿Cuántos goles marcó Lionel Messi?**  
+Ocho: 6 en la fase de grupos (triplete a Argelia, doblete a Austria y uno a Jordania), uno en dieciseisavos ante Cabo Verde y uno en octavos ante Egipto.
+
+**¿Quién arbitró la final?**  
+El esloveno Slavko Vinčić.
+
+**¿Quiénes marcaron los goles de Colombia?**  
+Daniel Muñoz (2), Luis Díaz, Jaminton Campaz y Jhon Arias.
+
+**¿Qué selección marcó más goles?**  
+Francia e Inglaterra, con 20 goles cada una; Argentina marcó 19.
+
+**¿Quién dio más asistencias?**  
+Michael Olise (Francia), con 7 asistencias.
+
 ---
 
-## 16. Hallazgos, límites y recomendaciones de uso
+## 17. Hallazgos, límites y recomendaciones de uso
 
 ### Hallazgos
 
@@ -1317,17 +1805,18 @@ En 2030, en Marruecos, España y Portugal, con partidos del centenario en Urugua
 
 - La revisión se basó en fuentes públicas consultadas hasta la fecha de corte. No sustituye los informes oficiales de la FIFA.
 - El total de goles (308) se calculó sumando los marcadores listados aquí; puede diferir de estadísticas oficiales por criterios de conteo.
-- No se listan todos los goleadores de cada partido: solo se incluyen los que pudieron verificarse. La ausencia de un goleador no significa que no haya existido.
+- La tabla de goleadores por jugador (sección 10) está completa y cuadra con los marcadores, pero el detalle partido a partido es parcial: en varios encuentros no se indica quién marcó cada gol ni en qué minuto.
+- Hay diferencias menores entre fuentes: la posesión de España en la final (65 % o 68 %) y la atribución del gol de Catar ante Suiza (Boualem Khoukhi o autogol de Miro Muheim).
 - Las convocatorias son las listas de 26 publicadas antes del torneo; pudo haber reemplazos de última hora no registrados aquí. La posición asignada a cada jugador (defensa, mediocampista, delantero) sigue la fuente consultada y puede diferir de la lista oficial de la FIFA.
 - Los nombres de jugadores están sin tildes ni diacríticos; pueden existir variantes de transliteración.
 
 ### Recomendación práctica
 
-Para confirmar un dato puntual (minuto de un gol, alineación o asistencia de un partido), consulte el informe del partido en el sitio de la FIFA. Para preguntas sobre una selección, revise su ficha en la sección 13, que reúne plantilla, entrenador y recorrido.
+Para confirmar un dato puntual (minuto de un gol, alineación o asistencia de un partido), consulte el informe del partido en el sitio de la FIFA. Para preguntas sobre una selección, revise su ficha en la sección 14, que reúne plantilla, entrenador y recorrido.
 
 ---
 
-## 17. Fuentes principales consultadas
+## 18. Fuentes principales consultadas
 
 ### Oficiales
 
@@ -1345,6 +1834,13 @@ Para confirmar un dato puntual (minuto de un gol, alineación o asistencia de un
 - [Sky Sports – Bota de Oro y récords](https://skysports.com/football/news/11095/13564837/world-cup-2026-golden-boot-race-kylian-mbappe-beats-lionel-messi-to-become-top-goalscorer)
 - [CBS Sports – cuadro de eliminatorias](https://www.cbssports.com/soccer/news/2026-fifa-world-cup-bracket-round-of-32-results-round-of-16-matchups-final/)
 - [beIN Sports – cambio de entrenador de Túnez](https://www.beinsports.com/en-asia/football/fifa-world-cup-2026/articles/tunisia-sack-lamouchi-and-appoint-renard-after-heavy-world-cup-defeat-2026-06-16)
+- [11v11 – goleadores del Mundial 2026](https://www.11v11.com/competitions/fifa-world-cup/2026/goal-scorers/)
+- [Football Web Pages – ficha y estadísticas de la final](https://www.footballwebpages.co.uk/match/2026-2027/fifa-world-cup/spain/argentina/578999)
+- [Ahram Online – alineaciones de la final](https://english.ahram.org.eg/News/573087.aspx)
+- [Fox Sports – árbitros de la final](https://amp.foxsports.com/stories/soccer/world-cup-final-referee-spain-argentina)
+- [SBS – estadísticas finales del torneo](https://www.sbs.com.au/sport/fifa-world-cup-2026/statistics)
+- [Sports Digest – capitanes de las 48 selecciones](https://sportsdigest.in/fifa-world-cup-2026-captains-list-48-teams/195420/)
+- [Flashscore – reemplazo de Balerdi por Senesi](https://www.flashscore.com/news/argentina-call-up-senesi-for-world-cup-as-replacement-for-injured-balerdi/GWjnWnpe/)
 - [The Stats Zone – entrenadores de las 48 selecciones](https://www.thestatszone.com/fifa-world-cup-2026-head-coach-tracker-204481)
 
 ---
